@@ -1,0 +1,257 @@
+{
+  "id": "a3a7116a",
+  "timestamp": "2025-12-08T22:09:40.872146",
+  "character_name": "Coffeezilla (Stephen Findeisen)",
+  "media_source": "YouTube (Investigative Journalism)",
+  "final_type": "LIE",
+  "dossier": {
+    "character_name": "Coffeezilla (Stephen Findeisen)",
+    "media_source": "YouTube (Investigative Journalism)",
+    "biographical_facts": [
+      "Fact 1: Conducts long-form investigative journalism focused primarily on financial scams, cryptocurrency fraud, and 'fake guru' schemes.",
+      "Fact 2: Utilizes blockchain analysis tools (such as Etherscan) to publicly track the movement of funds from liquidity pools to personal wallets.",
+      "Fact 3: Adopts a 'noir detective' visual persona, often wearing a dress shirt and suspenders while filming in a set designed to look like a futuristic or dim office.",
+      "Fact 4: Investigated Logan Paul's 'CryptoZoo' project, releasing a three-part series documenting the project's failure to deliver promised utility and the loss of investor funds.",
+      "Fact 5: When threatened with a defamation lawsuit by Logan Paul, he publicly released the threat and responded by inviting Paul to a live discussion, refusing to retract his initial findings.",
+      "Fact 6: Interviewed FTX founder Sam Bankman-Fried following the exchange's collapse, repeatedly questioning him about the specific mechanics of how customer funds were commingled with Alameda Research.",
+      "Fact 7: Often purchases expensive online courses from 'wealth gurus' to review the content and determine if the material justifies the price point.",
+      "Fact 8: Uses a dual-monitor setup to display evidence, often highlighting specific lines in terms of service documents or whitepapers that contradict an influencer's public claims.",
+      "Fact 9: Records and publishes audio of phone calls with alleged scammers, often confronting them directly about discrepancies in their stories.",
+      "Fact 10: Investigated the 'Save the Kids' crypto token, linking members of FaZe Clan to an alleged 'pump and dump' scheme through wallet transaction analysis.",
+      "Fact 11: Creates skits and comedic interludes to simplify complex financial concepts or to mock the absurdity of a scammer's claims.",
+      "Fact 12: Tracks promised refunds from influencers to victims, publishing follow-up reports when timelines for repayment are missed.",
+      "Fact 13: Collaborates with other internet investigators (such as SomeOrdinaryGamers) to cross-reference data on large-scale frauds.",
+      "Fact 14: Attends cryptocurrency conferences and events (like NFT.NYC) in person to interview participants and gauge market sentiment.",
+      "Fact 15: Maintains a 'Wall of Shame' or similar tracking metrics for projects that have gone to zero or 'rug pulled' investors.",
+      "Fact 16: Frequently uses the catchphrase 'It's not FUD [Fear, Uncertainty, Doubt] if it's true' when accused of negatively impacting a project's price.",
+      "Fact 17: Confronted MMA fighter Dillon Danis regarding his promotion of questionable crypto projects without disclosing payment.",
+      "Fact 18: Dissected the business model of the 'Hustler's University' program run by Andrew Tate, analyzing the affiliate marketing structure.",
+      "Fact 19: Exposed Safemoon's 'locked' liquidity pool, demonstrating how developers were able to withdraw funds despite claims of security.",
+      "Fact 20: Generally avoids discussing his personal life, family, or non-work history, keeping the content strictly focused on the investigations.",
+      "Fact 21: Reviews apology videos from influencers, breaking them down by analyzing body language, phrasing, and whether they accept liability.",
+      "Fact 22: Uses a robotic bartender prop and a CGI robot character named to deliver exposition or act as a sounding board during videos."
+    ],
+    "key_quotes": [
+      {
+        "quote": "If you are defrauding people, I'm going to find you.",
+        "context": "General statement of intent regarding his investigative channel."
+      },
+      {
+        "quote": "It's the hallmark of a scam. They promise you the world, and they deliver you a bag.",
+        "context": "Explaining the mechanics of 'pump and dump' crypto schemes."
+      },
+      {
+        "quote": "You're not answering the question. Did you or did you not know that customer funds were being used?",
+        "context": "During his interview with Sam Bankman-Fried regarding FTX."
+      },
+      {
+        "quote": "See, this is where the math doesn't add up.",
+        "context": "Common refrain when analyzing transaction ledgers on screen."
+      },
+      {
+        "quote": "I have no interest in battling Logan Paul. I have an interest in the truth.",
+        "context": "Responding to Logan Paul's initial threat of litigation regarding CryptoZoo."
+      },
+      {
+        "quote": "Listen, buying a course isn't going to make you rich. Doing the work is.",
+        "context": "Concluding a review of a 'get rich quick' scheme."
+      }
+    ],
+    "relationships": [
+      {
+        "person": "Logan Paul",
+        "dynamic": "Adversarial subject of investigation. Coffeezilla exposed Paul's CryptoZoo failure; Paul threatened legal action, then retracted and apologized, though Coffeezilla continues to monitor the lack of refunds."
+      },
+      {
+        "person": "Sam Bankman-Fried",
+        "dynamic": "Interview subject. Coffeezilla aggressively questioned SBF, challenging SBF's narrative of accidental mismanagement versus intentional fraud."
+      },
+      {
+        "person": "Mutahar (SomeOrdinaryGamers)",
+        "dynamic": "Collaborator. They frequently appear on each other's channels or podcasts to discuss ongoing investigations and internet security."
+      },
+      {
+        "person": "SafeMoon Developers",
+        "dynamic": "Investigation targets. Coffeezilla tracked their wallet transactions to prove they were siphoning money from the project."
+      }
+    ],
+    "summary": "Stephen Findeisen, operating as Coffeezilla, is an investigative YouTuber who exposes financial fraud, specifically within the cryptocurrency and influencer sectors. He combines detailed blockchain analysis and confrontational interviews with a stylized 'internet detective' aesthetic to hold public figures accountable for scams and misleading commercial practices."
+  },
+  "council_results": {
+    "reinin": {
+      "analysis": {
+        "extrovert_introvert": {
+          "pole": "Extrovert",
+          "evidence": "He is proactive in pursuing targets ('I'm going to find you'), conducts aggressive field interviews, and directs his energy outward toward exposure and confrontation rather than internal reflection."
+        },
+        "rational_irrational": {
+          "pole": "Rational",
+          "evidence": "His investigations are highly structured, often released as planned multi-part series; he maintains consistent tracking of timelines and refund schedules, showing a linear, planned approach."
+        },
+        "static_dynamic": {
+          "pole": "Dynamic",
+          "evidence": "He focuses on the continuous flow of funds (blockchain analysis) and the sequence of events over time that constitute a scam, rather than viewing the situation as a static snapshot."
+        },
+        "positivist_negativist": {
+          "pole": "Negativist",
+          "evidence": "His entire methodology involves identifying what is missing (funds, utility), highlighting discrepancies ('math doesn't add up'), and exposing the absence of promised value."
+        },
+        "asking_declaring": {
+          "pole": "Asking",
+          "evidence": "He utilizes a dialogue-heavy style, frequently using rhetorical questions in narration and direct, insistent interrogation techniques during interviews ('Did you or did you not know?')."
+        },
+        "tactical_strategic": {
+          "pole": "Tactical",
+          "evidence": "He is fixated on the specific mechanics and methods of the fraud (how the wallet transfers happened, how the affiliate code works) rather than just the broad strategic outcome."
+        },
+        "constructivist_emotivist": {
+          "pole": "Emotivist",
+          "evidence": "He consciously creates an emotional atmosphere (using a 'noir' persona and comedic skits) to make dry logical data (financial ledgers) digestible and impactful for the audience."
+        },
+        "process_result": {
+          "pole": "Process",
+          "evidence": "He details the step-by-step journey of the investigation and the mechanism of the scam, often valuing the thoroughness of the explanation as much as the conclusion."
+        },
+        "compliant_obstinate": {
+          "pole": "Obstinate",
+          "evidence": "He holds firm on his 'territory' (the facts of his investigation) when threatened with lawsuits, choosing to sacrifice the relationship with the influencer (Logan Paul) rather than retract his work."
+        },
+        "carefree_foresight": {
+          "pole": "Farsighted",
+          "evidence": "He accumulates data over long periods ('Wall of Shame'), anticipates future 'rug pulls' based on past patterns, and relies on extensive preparation before confronting subjects."
+        },
+        "merry_serious": {
+          "pole": "Serious",
+          "evidence": "His interactions focus on factual accuracy, work ethic ('doing the work'), and efficient resource management rather than emotional expression or group bonding."
+        },
+        "judicious_decisive": {
+          "pole": "Judicious",
+          "evidence": "He engages in extensive, methodical research and consideration (long-form series) before making his move, preferring a fully prepared case over impulsive action."
+        },
+        "aristocratic_democratic": {
+          "pole": "Aristocratic",
+          "evidence": "He frequently frames his narratives in terms of groups and professional standards ('Fake Gurus' vs. 'Honest Workers'), judging subjects by how they fail the duties of their assumed role."
+        },
+        "yielding_stubborn": {
+          "pole": "Yielding",
+          "evidence": "While firm on facts, he adapts his methods readily (buying courses, using skits, collaborating) to achieve his ends, showing flexibility in approach."
+        },
+        "subjectivist_objectivist": {
+          "pole": "Objectivist",
+          "evidence": "He relies exclusively on external, verifiable data (blockchain ledgers, terms of service, math) as the standard for truth ('It's not FUD if it's true'), rejecting subjective narratives."
+        }
+      },
+      "predicted_type": "LSE",
+      "confidence": 95,
+      "reasoning": "Coffeezilla exemplifies the LSE (Administrator) type through his relentless focus on external facts and logic (Objectivist/Te), his methodical and structured approach to exposing inefficiency and fraud (Rational, Process), and his 'noir' attention to sensory detail and production value (Sensing). His Negativist trait is prominent in his skepticism and ability to spot discrepancies, while his Obstinate nature ensures he holds his ground on factual territory against legal threats.",
+      "agent_name": "Agent Reinin"
+    },
+    "quadra": {
+      "quadra_analysis": {
+        "alpha_fit": {
+          "score": 10,
+          "evidence": "The character shows little interest in maintaining a comfortable, harmonious atmosphere (Si/Fe). Instead of avoiding harshness, he actively seeks out conflict and exposes unpleasant realities. He relies on hard empirical data rather than abstract theoretical discussions (Ti) or inclusive emotional levity (Fe)."
+        },
+        "beta_fit": {
+          "score": 40,
+          "evidence": "He shares the Beta values of decisiveness and confrontation (Se), often engaging in dramatic 'battles' with public figures. However, he heavily devalues Fe (emotional expression and group ideology), preferring to dismantle the 'cult-like' narratives of gurus using dry, financial facts (Te) rather than competing ideological systems (Ti)."
+        },
+        "gamma_fit": {
+          "score": 95,
+          "evidence": "Comprehensive fit for Gamma values. He prioritizes Te (efficiency, factual accuracy, money trails, verifying specific claims) and Fi (moral judgment of individuals, exposing 'bad actors,' integrity). He utilizes Se (aggressive confrontation, 'hunting' scammers) and Ni (analyzing future implications, timelines of collapse, and the 'noir' detective narrative) to dismantle fraud."
+        },
+        "delta_fit": {
+          "score": 55,
+          "evidence": "He shares the Delta appreciation for facts (Te) and ethical authenticity (Fi). However, Delta quadra typically avoids Se (force/aggression) and prefers stable, peaceful development. Coffeezilla's persona is defined by actively hunting targets and engaging in high-stakes public conflict, which contradicts the Delta preference for avoiding power struggles."
+        }
+      },
+      "predicted_quadra": "Gamma",
+      "predicted_type": "LIE",
+      "confidence": 90,
+      "reasoning": "Coffeezilla exemplifies the Gamma Quadra's prioritization of Te (pragmatic logic/facts) and Fi (relational ethics/integrity). He operates as a crusader for truth, using hard evidence to hold individuals morally accountable for their actions. His approach is highly proactive and investigative, utilizing Se to confront powerful figures directly and Ni to foresee and expose the inevitable collapse of fraudulent schemes.",
+      "agent_name": "Agent Quadra"
+    },
+    "functions": {
+      "function_analysis": {
+        "likely_base": {
+          "function": "Te",
+          "evidence": "His primary mode of operation is the objective analysis of external facts, systems, and efficiency. He focuses on 'doing the work,' tracking tangible funds via blockchain (Fact 2), and determining if products 'justify the price' (Fact 7). His catchphrase 'It's not FUD if it's true' (Fact 16) demonstrates a reliance on objective reality over sentiment."
+        },
+        "likely_creative": {
+          "function": "Ni",
+          "evidence": "He supports his factual analysis by investigating time-bound structures: timelines of promised refunds, the unfolding of 'rug pulls,' and the history of scams (Fact 12, 19). He identifies the archetypal 'hallmark' of a scam (Fact 20) and focuses heavily on the future implications of current actions (Fact 4)."
+        },
+        "likely_vulnerable": {
+          "function": "Si",
+          "evidence": "He largely ignores physical comfort and personal lifestyle details, keeping the focus strictly on work and abstract investigation (Fact 20). His 'noir' set is a stylized, intellectual construct rather than a space of physical comfort. He prioritizes the harsh truth of the investigation over maintaining equilibrium or harmony."
+        },
+        "likely_suggestive": {
+          "function": "Fi",
+          "evidence": "While ruthlessly logical, his crusade is driven by a desire to expose bad actors and protect victims, indicating a valuation of ethical character. He dissects apologies to test for sincerity and acceptance of liability (Fact 21), seeking to establish the 'truth' of the interpersonal relationship between scammer and victim."
+        }
+      },
+      "full_stack_prediction": "Te-Ni-Fe-Si-Fi-Se-Ti-Ne",
+      "predicted_type": "LIE",
+      "confidence": 90,
+      "reasoning": "Coffeezilla exemplifies the LIE (Jack London) type. His Leading Te is evident in his masterful handling of financial data, mechanics, and external evidence to expose inefficiencies (scams). His Creative Ni allows him to effectively navigate the timing and patterns of these frauds. His antagonistic relationship with scammers reveals Activating Se (direct confrontation, 'I will find you'), while his analysis of apology videos and moral liability points to Suggestive Fi (seeking authentic ethical responsibility). He uses Role Fe (skits/humor) to package his dry analysis, but his priority is always the objective logic of actions (Te) over structural consistency (Ti), which he treats as a tool (Ignoring) rather than a goal.",
+      "agent_name": "Agent Functions"
+    }
+  },
+  "discussion_results": {
+    "Agent Functions": "AGREEMENT WITH PREDICTION: **LIE** (Jack London)\n\nI am maintaining my prediction of **LIE**. While I concur with both agents regarding the dominance of Leading **Te** (objective logic, external mechanics of business/scams), Agent Reinin is critically misinterpreting the placement of the Sensing and Intuitive functions within the Model A stack.\n\n**Critique of Agent Reinin (LSE Argument):**\n\n1.  **Vulnerable Function (PoLR) Mismatch:**\n    Agent Reinin argues for LSE, which possesses **Vulnerable (PoLR) Ni**. An LSE struggles with timing, foresight, and the evolution of events over time, often becoming anxious about the \"when.\"\n    Coffeezilla’s entire methodology relies on **Creative Ni**. He investigates disparate data points to weave a cohesive narrative about *time*—specifically, the chronological evolution of a scam and prediction of the inevitable \"rug pull.\" He is comfortable playing the long game, holding investigations back for months to maximize impact. An LSE (PoLR Ni) would feel compelled to act immediately to settle the uncertainty; Coffeezilla utilizes the uncertainty as a strategic tool.\n\n2.  **Si vs. Se in the Mobilizing Slot:**\n    Reinin mistakes Coffeezilla's \"noir\" aesthetic for valued **Si** (Sensing of comfort/homeostasis). In the LSE, Si is Creative—they prioritize stability, physical comfort, and seamless logistics.\n    Coffeezilla exhibits **Vulnerable Si**. He frequently jokes about his lack of sleep, poor diet (\"drinking slew\"), and obsessive work habits. He neglects internal physical states to pursue the external objective ($Te$).\n    Instead, he displays **Mobilizing Se** (Volitional Sensing). He seeks to exert influence and force a confrontation. He doesn't just debunk; he *hunts*. The \"I will find you\" mentality is the hallmark of Activating Se acting in service of Leading Te. He gains energy from the fight and the high-stakes confrontation, whereas an LSE (Mobilizing Ne) looks for alternative possibilities and stability.\n\n3.  **Demonstrative Ne (LIE) vs. Mobilizing Ne (LSE):**\n    An LSE values **Ne** (New possibilities/potential). An LIE has **Demonstrative Ne**—they see the potential but discard it to focus on the singular path ($Ni$). Coffeezilla is not interested in \"what could be\" regarding these crypto projects; he effortlessly sees through the hype (Strong Ne) but discards it to focus on the deterministic outcome ($Ni$ - \"this will fail\").\n\n**Conclusion:**\nReinin correctly identifies the **Te** program but confuses the \"detective persona\" (a deliberate functional usage of Role Fe/Creative Ni) for valued Sensing. Coffeezilla is an Intuitive type. His ability to abstract patterns ($Ni$) from financial chaos ($Te$) while neglecting personal comfort ($Si$) confirms **LIE**.",
+    "Agent Quadra": "I agree with **Agent Functions** and firmly dispute **Agent Reinin’s** assessment of LSE (Delta Quadra).\n\nCoffeezilla is a textbook representative of the **Gamma Quadra** (LIE), not Delta.\n\n**1. The Central Conflict: Se (Gamma) vs. Si (Delta)**\nAgent Reinin argues for LSE based on a \"structured approach\" and \"noir attention to detail.\" This misinterprets the motivation. The Delta Quadra (Te-Si) values **stability, comfort, and risk minimization**. Deltas are \"Judicious\"—they prepare carefully to avoid crises.\n\nCoffeezilla does the opposite. He exemplifies **Gamma Decisiveness (Se-valuing)**. He actively seeks out conflict, initiates high-stakes feuds with powerful figures (Logan Paul, SBF, SafeMoon), and flies into hostile environments to confront scammers. This is the \"aggressor/victim\" dynamic of the Gamma Quadra, not the \"caregiver/infantile\" dynamic of Delta. An LSE would view this level of constant, voluntary friction as inefficient and exhausting; a Gamma LIE is energized by the \"hunt.\"\n\n**2. The Nature of his Vision: Ni (Gamma) vs. Ne (Delta)**\nReinin attributes his \"noir\" style to Sensing. I argue this is a manifestation of **Ni (Introverted Intuition)**. The \"detective\" archetype is a quintessential Gamma motif—peeling back layers to find the hidden rot.\n*   **Delta (Ne)** allows for multiple potentials and \"live and let live.\"\n*   **Gamma (Ni)** narrows down to the *inevitable result*. Coffeezilla’s content is entirely focused on the *timeline* of the scam, the prediction of the \"rug pull,\" and the singular truth behind the façade. He uses Te to prove what Ni suspects.\n\n**3. Ethical Focus: Gamma Fi vs. Delta Fi**\nWhile both types value Fi (Introverted Ethics), the application differs significantly between quadras.\n*   **Delta Fi** is often humanistic, focused on maintaining good relations and psychological distance.\n*   **Gamma Fi** is \"severe\" and judgmental. It divides the world into \"us vs. them\" or \"honest vs. dishonest.\"\n\nCoffeezilla isn't trying to \"administrate\" (LSE) these situations to make them run smoother. He is engaging in a moral crusade to **punish** bad actors. His demand for accountability isn't about restoring harmony; it's about exacting payment (moral and financial) for transgression. This focus on \"justice through exposure\" is the heartbeat of the Gamma Quadra complex.\n\n**Conclusion:**\nTo classify Coffeezilla as Delta (LSE) is to ignore his appetite for destruction. He does not want to build a stable environment; he wants to burn down corrupt institutions. That is the spirit of the **Gamma LIE**.",
+    "Agent Reinin": "**AGREEMENT:** I agree with Agents Quadra and Functions regarding the subject's **Objectivist (Te)** nature. There is no doubt Coffeezilla prioritizes external facts, efficiency, and verifiable logic over internal structural consistency (Subjectivist/Ti).\n\n**COUNTER-ARGUMENT:** However, I strongly contest the prediction of LIE (Jack London). The analysis fails when applying the **Process/Result** and **Sensing/Intuition** dichotomies.\n\n**1. Process (LSE) vs. Result (LIE)**\nAgent Functions argues for Creative Ni (timing), but looks past the structural pacing of Coffeezilla's work. LIEs are **Result** types; they tend to condense information, skipping the intermediate steps to reach the conclusion or \"bottom line\" quickly. Coffeezilla is distinctly **Process (Right)**.\n*   **Evidence:** His investigations are often multi-part sagas (e.g., the 3-part Logan Paul series, the SBF deep dives). He does not rush to the summary; he meticulously walks the audience through every single step of the scam, the timeline, and the mechanical breakdown. He immerses himself in the *flow* of the investigation. An LIE would find this level of granular, step-by-step exposition tedious.\n\n**2. Sensing (LSE) vs. Intuition (LIE)**\nBoth other agents overlook the high level of **Sensing** required to maintain his production quality. LIEs (Intuitives) often neglect the physical environment or aesthetic consistency in favor of abstract ideas or utility.\n*   **Evidence:** Coffeezilla’s \"Internet Detective\" persona is grounded in a specific, high-effort aesthetic (the noir lighting, the suspenders, the complex studio set). This attention to sensory detail and visual consistency is characteristic of a Sensing type. Furthermore, his \"receipts\" are concrete visuals—screenshots, audio files, physical tracking—rather than abstract speculations or trends (which would be Ni).\n\n**3. Obstinate (LSE) vs. Yielding (LIE)**\nThis is the critical differentiator regarding his conflicts with scammers.\n*   **LSEs are Obstinate:** They guard their *interests* (their stance, their project, their facts) and are willing to expend *resources* to defend them.\n*   **LIEs are Yielding:** They guard their *resources* (safety, money, time) and will often compromise their *interests* to preserve them.\n*   **Evidence:** When threatened with a massive lawsuit by Logan Paul, a Yielding LIE might have calculated the resource drain (legal fees vs. payout) and settled or pivoted. Coffeezilla stood his ground on the facts (Interests), accepting the resource risk. This is classic Obstinate behavior—holding the line on the intellectual territory regardless of the cost.\n\n**Conclusion:** The subject displays the **Farsighted**, **Process**, **Sensing**, and **Obstinate** traits of the **LSE**, not the LIE. He uses past data to secure future stability (Farsighted), rather than improvising with \"Carefree\" intuition."
+  },
+  "validation_results": {
+    "errors_found": [
+      {
+        "agent": "Agent Reinin",
+        "claim": "Coffeezilla explains LSE... his Obstinate nature ensures he holds his ground",
+        "correction": "LSE is a Yielding type, not Obstinate.",
+        "reference": "REININ_BY_TYPE row for LSE (ESTj) lists 'yielding'."
+      }
+    ],
+    "verified_correct": [
+      "Agent Functions: LIE has Leading Te, Creative Ni, Role Fe, PoLR Si, Suggestive Fi, Mobilizing Se, Ignoring Ti.",
+      "Agent Quadra: LIE belongs to Gamma Quadra (Values Te, Ni, Se, Fi).",
+      "Agent Quadra: Gamma Quadra values 'pragmatic logic' (Te) and 'relational ethics' (Fi) while prioritizing 'decisiveness' (Se) and 'foresight' (Ni).",
+      "Agent Reinin: LSE is Objectivist, Process, Negativist, and Sensing (all correctly attributed to LSE, despite the LSE typing likely being incorrect for the subject).",
+      "Agent Functions: LIE corresponds to 'Result' dichotomy (implied by type, though not explicitly stated, fits the investigative outcome focus)."
+    ],
+    "recommended_type": "LIE (Jack London)",
+    "confidence_adjustment": "High confidence. The remaining agents (Quadra/Functions) are factually consistent with the LIE type, which fits the 'investigative exposure' (Te+Ni) archetype better than LSE (Te+Si) which would struggle with the 'future/timeline' aspects (Ni PoLR).",
+    "summary": "Agent Reinin made a factional error regarding the LSE's Reinin dichotomies (claiming Obstinate instead of Yielding). Agent Functions and Agent Quadra provided factually accurate verification of the LIE type's structure. The subject's focus on future timelines and fraud mechanics (Ni mechanisms) strongly contradicts the LSE's Ni PoLR point of least resistance."
+  },
+  "final_result": {
+    "agent_predictions": {
+      "reinin_predicted": "LSE",
+      "quadra_predicted": "LIE",
+      "functions_predicted": "LIE"
+    },
+    "validation_summary": {
+      "errors_found": "No critical theoretical errors in the definitions used, but Agent Reinin's interpretation of 'noir aesthetics' as Valued Si is questionable.",
+      "discounted_claims": "Agent Reinin's claim that attention to visual detail implies LSE (Si-Creative). High production value can be Te-efficiency or Se-mobilizing. The determining factor is the lack of Peripheral/Delta avoidance of conflict."
+    },
+    "synthesis": {
+      "agreements": "All agents agree on the dominance of Extraverted Logic (Te) – focusing on external facts, objective evidence, and exposing inefficiency/fraud.",
+      "disagreements": "The disagreement lies in the Creative function (Si vs Ni) and the Quadra assignment (Delta vs Gamma). Agent Reinin argues for LSE (Te-Si) citing methodical structure, while Agents Quadra and Functions argue for LIE (Te-Ni) citing his focus on temporal patterns (Ni) and confrontational justice (Gamma Se/Fi).",
+      "majority_type": "LIE",
+      "resolution": "The majority (LIE) is favored. Coffeezilla's content focuses on cryptocurrency schemes (speculative, time-based, abstract patterns), which requires strong Ni. Furthermore, his 'crusader' approach involves direct confrontation and moral judgment (Se/Fi values of Gamma Quadra) rather than the comfort-seeking and conflict-avoidant nature of Delta Quadra (LSE). LSEs typically have Ni PoLR, making them struggle with the uncertain, shifting timelines of crypto markets, which Coffeezilla navigates expertly."
+    },
+    "final_type": "LIE",
+    "type_name": "Logical Intuitive Extrovert",
+    "type_nickname": "Jack London",
+    "quadra": "Gamma",
+    "confidence_score": 90,
+    "confidence_explanation": "Two out of three agents agreed on LIE. The LSE outlier is ruled out because the subject exhibits strong Ni (predicting scam lifecycles) rather than Ni PoLR, and adheres to Central (Gamma) interaction styles (confrontation) rather than Peripheral (Delta) styles.",
+    "key_traits": [
+      "Investigative Rigor",
+      "Temporal Pattern Recognition",
+      "Moral Confrontation",
+      "Entrepreneurial Skepticism",
+      "Structured Logic"
+    ],
+    "function_stack": "Te-Ni-Fe-Si-Fi-Se-Ti-Ne",
+    "summary": "Coffeezilla operates as a quintessential LIE (Jack London), utilizing Leading Te to dismantle complex financial machinations with brutal efficiency. His Creative Ni allows him to map the timeline of frauds and predict 'rug pulls' before they happen, while his Mobilizing Se drives his willingness to physically confront bad actors. Driven by Suggestive Fi, his work is ultimately a quest for authentic integrity, exposing those who violate the ethical bonds of business."
+  }
+}

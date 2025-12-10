@@ -1,0 +1,248 @@
+{
+  "id": "ea54b69d",
+  "timestamp": "2025-12-08T14:40:37.557784",
+  "character_name": "Donald J. Trump",
+  "media_source": "Real Life / The Apprentice / The Art of the Deal",
+  "final_type": "SLE",
+  "dossier": {
+    "character_name": "Donald J. Trump",
+    "media_source": "Real Life / The Apprentice / The Art of the Deal",
+    "biographical_facts": [
+      "Fact 1: Transitioned from real estate development to reality television before entering politics, utilizing the show 'The Apprentice' to cement a public image as a decisive executive.",
+      "Fact 2: Uses specific, repetitive branding adjectives (e.g., 'tremendous', 'huge', 'disaster', 'fake') to frame narratives about himself and opponents.",
+      "Fact 3: Frequently utilizes derogatory nicknames for political rivals and critics (e.g., 'Crooked Hillary', 'Lyin' Ted', 'Sleepy Joe') as a primary debate and campaigning tactic.",
+      "Fact 4: Places high value on personal loyalty, often hiring family members (Ivanka Trump, Jared Kushner) for senior advisory roles within his administration.",
+      "Fact 5: Bypasses traditional media channels to communicate directly with the public via social media platforms (Twitter, Truth Social), often posting late at night or early in the morning.",
+      "Fact 6: Prioritizes visual aesthetics and 'central casting' looks when selecting personnel or staging events.",
+      "Fact 7: Does not consume alcohol, drugs, or tobacco, citing the death of his brother, Fred Jr., as the reason for this abstinence.",
+      "Fact 8: Often measures success through quantitative metrics such as television ratings, crowd sizes at rallies, and poll numbers.",
+      "Fact 9: In business negotiations and foreign policy, favors bilateral, transactional deals over multilateral agreements or long-standing alliances.",
+      "Fact 10: Describes his rhetorical style in his book 'The Art of the Deal' as 'truthful hyperbole', stating that playing to people's fantasies is an effective form of promotion.",
+      "Fact 11: Maintained a routine of consuming large amounts of cable news television daily during his presidency to gauge public opinion and media coverage.",
+      "Fact 12: Physically asserts dominance in greetings, notable for a distinctive 'pull-in' handshake style with world leaders.",
+      "Fact 13: Responds to litigation or accusations with aggressive counter-attacks and creates counter-narratives rather than apologizing or conceding.",
+      "Fact 14: Frequently deviates from prepared teleprompter remarks during speeches, preferring improvisational, stream-of-consciousness addresses.",
+      "Fact 15: Focuses on tangible, physical infrastructure projects as symbols of achievement, most notably the construction of a wall on the US-Mexico border.",
+      "Fact 16: Has a heavily documented preference for fast food (McDonald's, KFC) and well-done steaks with ketchup.",
+      "Fact 17: During his business career, he shifted from exclusively building properties to licensing his name for a fee to other developers (hotels, golf courses, products).",
+      "Fact 18: Exhibits a high turnover rate among staff and subordinates; frequently dismisses employees publicly or via social media.",
+      "Fact 19: Challenges established norms and institutions, such as questioning election results or criticizing the intelligence community and judiciary.",
+      "Fact 20: Conducts business and political operations primarily from his own properties (Trump Tower, Mar-a-Lago, Bedminster), integrating his personal lifestyle with his professional work.",
+      "Fact 21: Often speaks in the third person or references himself by name when touting achievements.",
+      "Fact 22: Utilizes leverage and debt as key tools in real estate development, navigating multiple corporate bankruptcies to restructure liabilities."
+    ],
+    "key_quotes": [
+      {
+        "quote": "I play to people's fantasies... People want to believe that something is the biggest and the greatest and the most spectacular. I call it truthful hyperbole. It's an innocent form of exaggeration, and a very effective form of promotion.",
+        "context": "From his 1987 book, 'The Art of the Deal', explaining his communication strategy."
+      },
+      {
+        "quote": "You're fired!",
+        "context": "His catchphrase effectively used during the elimination segment of 'The Apprentice'."
+      },
+      {
+        "quote": "I could stand in the middle of Fifth Avenue and shoot somebody and I wouldn’t lose voters.",
+        "context": "Campaign speech in Iowa (January 2016) commenting on the loyalty of his base."
+      },
+      {
+        "quote": "Actually, throughout my life, my two greatest assets have been mental stability and being, like, really smart.",
+        "context": "Twitter post (January 2018) defending his mental capacity against critics."
+      },
+      {
+        "quote": "We will win so much, you may get tired of winning.",
+        "context": "Campaign speech (2016) promising success to supporters."
+      },
+      {
+        "quote": "I think the only difference between me and the other candidates is that I'm more honest and my women are more beautiful.",
+        "context": "Quote from the 2016 Republican primary debates regarding his competition."
+      }
+    ],
+    "relationships": [
+      {
+        "person": "Ivanka Trump & Jared Kushner",
+        "dynamic": "Trusted the couple with broad portfolios in the White House, privileging family bonds over traditional political experience."
+      },
+      {
+        "person": "The Media (General)",
+        "dynamic": "Maintains a highly adversarial relationship, frequently labeling them 'the enemy of the people', while simultaneously relying on them for publicity and exposure."
+      },
+      {
+        "person": "Roy Cohn",
+        "dynamic": "Early mentor and lawyer who taught Trump the tactics of aggressive counter-attack, denying everything, and claiming victory regardless of the outcome."
+      },
+      {
+        "person": "Foreign Leaders (e.g., Putin, Kim Jong Un)",
+        "dynamic": "Pursued personal, direct relationships with strongman leaders, often praising their control while criticizing traditional democratic allies."
+      }
+    ],
+    "summary": "Donald Trump is a businessman, media personality, and politician known for his branding empire and tenure as the 45th U.S. President. His approach relies on high-visibility media tactics, direct communication with his base, aggressive counter-positioning against opponents, and a transactional view of governance and relationships."
+  },
+  "council_results": {
+    "reinin": {
+      "analysis": {
+        "extrovert_introvert": {
+          "pole": "Extrovert",
+          "evidence": "Engages in high-visibility media tactics, thrives on large crowds and rallies, and prioritizes external validation metrics like ratings and polling numbers (Fact 1, 8)."
+        },
+        "rational_irrational": {
+          "pole": "Irrational",
+          "evidence": "Prefers improvisational, stream-of-consciousness communication over prepared remarks; navigates crises reactively rather than adhering to rigid structures (Fact 14, 18)."
+        },
+        "static_dynamic": {
+          "pole": "Static",
+          "evidence": "Uses branding adjectives to create snapshot labels of people ('Crooked', 'Sleepy') that define them by a fixed quality rather than describing their evolution (Fact 2, 3)."
+        },
+        "positivist_negativist": {
+          "pole": "Negativist",
+          "evidence": "Rhetoric often highlights what is 'fake', 'disastrous', or 'broken' (focus on absence of quality or presence of flaws) and utilizes aggressive counter-narratives (Fact 2, 13)."
+        },
+        "asking_declaring": {
+          "pole": "Declaring",
+          "evidence": "Communicates primarily through monologues, assertions, and commands ('You're fired!') rather than interrogative dialogue; speaks to 'tell' rather than to 'ask' (Fact 5, Quotes)."
+        },
+        "tactical_strategic": {
+          "pole": "Strategic",
+          "evidence": "Focuses heavily on the end goal ('winning', closing the deal) rather than being attached to the specific methods used to get there; measures success by outcome (Fact 8, 17)."
+        },
+        "constructivist_emotivist": {
+          "pole": "Constructivist",
+          "evidence": "Uses emotion ('playing to fantasies', 'truthful hyperbole') as a calculated tool to achieve a business or rhetorical end, rather than reacting primarily from emotional impulse (Fact 10)."
+        },
+        "process_result": {
+          "pole": "Result",
+          "evidence": "Prioritizes the closing of the deal and tangible wins; dismisses the procedural norms or 'how' things are done in favor of the final consequence (Fact 9, 15)."
+        },
+        "compliant_obstinate": {
+          "pole": "Obstinate",
+          "evidence": " fiercely protects personal territory, brand, and usage of name; refuses to concede or apologize in the face of litigation, holding firm on interests (Fact 13, 17)."
+        },
+        "carefree_foresight": {
+          "pole": "Carefree",
+          "evidence": "Deals with problems as they arise rather than through extensive preparation; improvises speeches and reacts to news cycles in real-time (Fact 11, 14)."
+        },
+        "merry_serious": {
+          "pole": "Merry",
+          "evidence": "Prioritizes the emotional atmosphere and group enthusiasm (rallies) over dry, factual accuracy ('truthful hyperbole'); values subjective collective logic (Fact 10)."
+        },
+        "judicious_decisive": {
+          "pole": "Decisive",
+          "evidence": "Self-branded as a 'decisive executive'; takes quick, forceful action and exerts physical dominance in interactions (handshakes) (Fact 1, 12)."
+        },
+        "aristocratic_democratic": {
+          "pole": "Aristocratic",
+          "evidence": "Categorizes people into distinct groups (winners/losers, loyalists/enemies) and relies on 'central casting' stereotypes rather than individual nuance (Fact 3, 6)."
+        },
+        "yielding_stubborn": {
+          "pole": "Yielding",
+          "evidence": "Flexible regarding opinions and political affiliations (transactional nature) but firm when it comes to physical actions and execution of power (Fact 9)."
+        },
+        "subjectivist_objectivist": {
+          "pole": "Subjectivist",
+          "evidence": "Relies on personal/internal criteria for truth ('alternative facts') and challenges established external institutions and consensus (Fact 19, 21)."
+        }
+      },
+      "predicted_type": "SLE",
+      "confidence": 95,
+      "reasoning": "The individual exhibits clear Extroverted, Sensing, Logical, and Irrational (SLE) traits. The derivation is supported by his branding style (Aristocratic, Static), his communication preference (Declaring, Negativist), and his navigational style (Strategic, Result-oriented). He prioritizes force and territory (Decisive, Sensing) while treating logic as a subjective tool to manage the emotional atmosphere (Merry, Constructivist).",
+      "agent_name": "Agent Reinin"
+    },
+    "quadra": {
+      "quadra_analysis": {
+        "alpha_fit": {
+          "score": 15,
+          "evidence": "While he shares the Alpha value of Fe (emotional expression and engaging the group atmosphere), his approach lacks the Alpha prioritization of Si (comfort, peace, and moderation) and gentle, democratic Ti logic. He prefers forceful conflict and hierarchy over egalitarian brainstorming."
+        },
+        "beta_fit": {
+          "score": 95,
+          "evidence": "The subject exemplifies Beta values: Se (decisive action, visual dominance, 'winning', aggressive counter-attacks) and Fe (creating dramatic narratives, 'truthful hyperbole', obsession with ratings/crowds). His leadership style relies on hierarchical loyalty (Ti) and grand visions of history/destiny (Ni), rejecting neutrality in favor of 'us vs. them' polarization."
+        },
+        "gamma_fit": {
+          "score": 45,
+          "evidence": "He shares the forceful Se drive for acquisition and results found in Gamma. However, he notably devalues Te (factual accuracy, dry efficiency) in favor of dramatic effect (Fe), calling his method 'truthful hyperbole.' His understanding of loyalty appears more transactional and hierarchical (Beta) than the deep relational bonds of Gamma Fi."
+        },
+        "delta_fit": {
+          "score": 5,
+          "evidence": "He represents the antithesis of Delta values. He actively avoids Si (calm, stability) and Te (dry facts, procedural norms), instead favoring upheaval and provocation. He rejects the Delta preference for peaceful development and humanitarian sincerity."
+        }
+      },
+      "predicted_quadra": "Beta",
+      "predicted_type": "SLE",
+      "confidence": 90,
+      "reasoning": "The character prioritizes Se (dominance, physical assets, 'winning') and Fe (emotional impact, rallies, branding, 'hyperbole') above all else. His rejection of objective metrics (Te) in favor of narrative control and crowd reaction strongly points to Beta Quadra values over Gamma. He operates through a lens of hierarchical power structures (Ti/Se) and grand visions (Ni), avoiding the peaceful stability or dry factualism of opposing quadras.",
+      "agent_name": "Agent Quadra"
+    },
+    "functions": {
+      "function_analysis": {
+        "likely_base": {
+          "function": "Se",
+          "evidence": "His entire public persona is built on the exertion of willpower, dominance, and territorial expansion (Fact 1, 12). He measures reality through tangible impact, such as crowd sizes, ratings, and physical infrastructure like the border wall (Fact 8, 15). He physically asserts himself in space (Fact 12) and prioritizes visual aesthetics and 'central casting' looks (Fact 6)."
+        },
+        "likely_creative": {
+          "function": "Fi",
+          "evidence": "He navigates his ambitions primarily through the lens of personal relationships and sentiments rather than impersonal systems. He demands absolute personal loyalty, privileging family over qualified professionals (Fact 4). His use of nicknames ('Crooked Hillary') creates immediate, emotionally charged classifications of 'friend' vs 'enemy' (Fact 3), manipulating psychological distance to his advantage."
+        },
+        "likely_vulnerable": {
+          "function": "Ti",
+          "evidence": "He demonstrates a consistent disregard for structural logic, consistency, and established norms. He describes his communication as 'truthful hyperbole' (Fact 10), prioritizing effect over factual accuracy. His distress and aggression are most triggered by systemic constraints, such as the judiciary or intelligence communities, which impose logical/legal frameworks on his will (Fact 13, 19)."
+        },
+        "likely_suggestive": {
+          "function": "Ni",
+          "evidence": "He gravitates toward grand, temporal visions of destiny and historical restoration ('Make America Great Again'). He relies on instinctual timing for his actions and late-night communications (Fact 5), seeking a sense of meaningful unfolding of events or 'winning' over time to complement his focus on the immediate moment."
+        }
+      },
+      "full_stack_prediction": "Se-Fi-Ne-Ti-Ni-Te-Si-Fe",
+      "predicted_type": "SEE",
+      "confidence": 95,
+      "reasoning": "Trump matches the profile of the Senator (SEE) perfectly within Model A. His Leading Se drives a ceaseless quest for influence and visibility, while his Creative Fi manages this influence through intense interpersonal maneuvering and demands for loyalty. His noted disdain for complex analysis, consistent policy frameworks, and rules points directly to a PoLR in Ti (Structural Logic), while his obsession with citing external metrics like ratings and wealth aligns with Mobilizing Te (Efficiency).",
+      "agent_name": "Agent Functions"
+    }
+  },
+  "discussion_results": {
+    "Agent Reinin": "AGREEMENT with Agent Quadra (SLE).\nDISAGREEMENT with Agent Functions (SEE).\n\nMy analysis confirms the **SLE** designation based on the Reinin Dichotomies. Agent Functions' assessment of SEE fails to account for three critical dichotomies that rule out the Gamma Quadra: **Aristocracy**, **Subjectivism (Merry)**, and **Negativism**.\n\n**1. Aristocrat vs. Democrat (The strongest evidence against SEE)**\nAgent Functions claims the subject operates on creative Fi (interpersonal maneuvering). However, a Democrat type (like the SEE) evaluates individuals based on personal qualities independent of group affiliation. The subject is a textbook **Aristocrat**. He communicates almost exclusively through group labels, branding, and status hierarchies (\"The Left,\" \"The Media,\" \"Winners vs. Losers\"). He paints broad strokes about categories of people rather than engaging in the nuanced, individualistic assessment characteristic of a Democrat.\n\n**2. Merry (Subjectivist) vs. Serious (Objectivist)**\nAgent Functions argues the subject has Ti PoLR (hates structure) and Te Mobilizing (likes ratings). This is a misreading of the **Merry/Serious** dichotomy.\nA Serious type (SEE) values objective facts and efficiency (Te) and is keenly aware of objective laws. The subject, conversely, exhibits the **Subjectivist** trait: he treats logic as malleable and personal (Ti Creative) rather than an objective external standard. When he cites ratings, he is not submitting to external data (Te); he is using data to reinforce a structural consistency of his own making (\"I am the winner\"). His disregard for established procedures is not Ti PoLR inability; it is the **Decisive** and **Subjectivist** refusal to submit to a logic he did not create.\n\n**3. Negativist vs. Positivist**\nThe SEE is a Positivist type, focused on what is present, minimizing conflict to build connections. The subject is overwhelmingly **Negativist**. His rhetoric is defined by what is wrong, what is missing, and who the enemy is (\"American carnage,\" \"disasters,\" \"fake\"). He frames his worldview through contrast and opposition, a trait of the Negativist SLE, not the Positivist SEE.\n\n**4. Static vs. Dynamic**\nThe subject speaks in **Static** snapshots (\"It is a disaster,\" \"He is a great guy\"). He characterizes people and situations as having fixed, immutable qualities. An SEE (Dynamic) views reality as a continuous flow of changing events and relationships. The subject's branding relies on Static labels that resist change, confirming the Static dichotomy of the SLE.\n\n**Conclusion:**\nAgent Functions mistakes the SLE's proprietary use of logic (Creative Ti) for incompetence (Ti PoLR). The subject's rigid adherence to \"us vs. them\" (Aristocrat), contrast-based rhetoric (Negativist), and refusal to accept objective facts over personal consistency (Subjectivist) confirms SLE.",
+    "Agent Quadra": "**Agreement with Agent Reinin (SLE) | Critique of Agent Functions (SEE)**\n\nI maintain my diagnosis of **Beta Quadra (SLE)**. Agent Reinin’s breakdown of the \"Merry\" and \"Decisive\" traits correctly identifies the Beta ecosystem, but Agent Functions’ placement of the subject into the Gamma Quadra (SEE) represents a fundamental misunderstanding of the values driving this individual.\n\nHere is why the subject operates within the **Beta** ethos, not **Gamma**:\n\n**1. The \"Merry\" (Fe) vs. \"Serious\" (Fi) Divide**\nGamma Quadra types (like the SEE) are \"Serious.\" They value **Fi** (personal sentiments, deep individual bonds, moral character) and **Te** (objective facts, profit, efficiency). Their approach to relationships is transactional and private.\n\nThe subject is the antithesis of \"Serious.\" He is **\"Merry\"** (valued **Fe**). He governs through public spectacle, rallies, and \"hype.\" He does not manage influence through subtle, psychological maneuvering of personal bonds (Creative Fi); he manages it through broad, emotional contagion and affect (Fe). He feeds on the energy of the crowd. A Gamma SEE seeks to secure specific alliances for tangible gain; this subject seeks the *adulation of the masses* to validate his hierarchal status. The \"Rally\" is a Beta sacrament (ideological unity through emotional fervor), not a Gamma business meeting.\n\n**2. Aristocracy vs. Democracy**\nBeta Quadra is **Aristocratic**; it views the world through the lens of strict group labels and hierarchy (\"Us vs. Them\"). Gamma Quadra is **Democratic**; it views people as independent agents based on individual merit and utility.\n\nThe subject's entire worldview is rigidly Aristocratic. He does not evaluate individuals on nuance; he stamps them with group labels (\"The Radical Left,\" \"The Generals,\" \"The Media,\" \"RINOs\"). This usage of rigid social categories to enforce a power structure is a hallmark of Beta Quadra’s **Ti + Se** axis. He demands feudal loyalty to the *crown* (the person at the top of the hierarchy), which is a Ti/Se trait, not the relational negotiation of Fi.\n\n**3. Rejection of Gamma Te (Objective Efficiency)**\nAgent Functions argues the subject uses Mobilizing Te (citing ratings/wealth). This is superficial. In reality, the subject displays a profound rejection of **Te** values (factual accuracy, dry efficiency, objective processes).\n\nGamma types respect the \"bottom line.\" They care if the system works (Te). This subject routinely ignores objective reality or \"facts\" (Te) if they contradict his preferred narrative (Ni) or emotional dominance (Fe). He subordinates the *truth of the process* to the *feeling of the victory*. This suppression of Te in favor of ideological narrative is a definitive Beta trait.\n\n**Conclusion:**\nThe subject seeks dominance (Se) to feed a collective emotional atmosphere (Fe) within a rigid \"Us vs. Them\" hierarchy (Ti). He is not looking for a profitable partnership (Gamma); he is looking for a conquest. He is **Beta**.",
+    "Agent Functions": "I staunchly maintain the **SEE (Sensory-Ethical Extrovert)** diagnosis and reject the SLE prediction. While we all agree on his Leading function, your analysis of his evaluative functions (Creative and PoLR) is fundamentally flawed regarding Model A mechanics.\n\nHere is where the SLE analysis breaks down:\n\n**1. The \"Creative Ti\" Fallacy**\nAgent Reinin and Agent Quadra argue for SLE. In Model A, the SLE possesses **Creative Ti (Introverted Logic)**. An SLE uses force (Se) serviced by a rigorous, internal logical system (Ti). They are consistent, structural, and operate by rules or codes they have scrutinized.\n*   **The Evidence:** Trump is famously inconsistent. He contradicts his own statements often within the same sentence. He displays a complete disregard for structural consistency, logical frameworks, or ideological coherence. This is characteristic of **Ti PoLR (Vulnerable Function)**—the hallmark of the SEE—not Creative Ti. He cannot be an SLE because he lacks the \"System\" element of the \"Marshall.\"\n\n**2. The \"PoLR Fi\" Problem**\nIf Trump were an SLE, his **PoLR (Point of Least Resistance)** would be **Fi (Introverted Ethics)**. This would make him skeptical of personal sentiments, awkward in assessing loyalty, and reliant on objective rank rather than personal favor.\n*   **The Evidence:** Trump’s entire operating system is based on **Fi valued**. He navigates the world purely through the lens of personal loyalty, \"us vs. them\" bonds, and subjective favor (\"He's a good guy,\" \"He treated me badly\"). He does not fire people based on incompetence (Te/Ti); he fires them for \"betrayal\" (Fi). This is **Creative Fi** usage—manipulating psychological distance to control his environment—not Fi blindness.\n\n**3. Mobilizing Te vs. Demonstrative Te**\nAgent Quadra claims he \"rejects objective metrics (Te).\" I strongly disagree. In the SEE, **Te (Extroverted Logic)** is **Mobilizing (6th Function)**. The Mobilizing function is an area of aspiration but insecurity—something the subject obsesses over to prove their worth.\n*   **The Evidence:** Trump is obsessed with citing external metrics: tv ratings, crowd sizes, stock market numbers, and net worth. He uses these \"facts\" (Te) as a shield to validate his Se dominance. An SLE (who has strong, unvalued Demonstrative Te) would simply execute efficiency; an SEE *talks* about their efficiency constantly to demand respect.\n\n**Conclusion:**\nYou are mistaking his **Demonstrative Fe** (the SEE's ability to effortlessly create an emotional spectacle to serve their goals) for Beta Quadra values. He uses emotion, but he governs through personal loyalty (Fi) and chaos (Ti PoLR), not structural logic. He is an **SEE**."
+  },
+  "validation_results": {
+    "errors_found": [],
+    "verified_correct": [
+      "Agent Reinin: SLE dichotomy assignments (Static, Declaring, Negativist, Result, Strategic, Aristocratic, Constructivist) are canonically correct.",
+      "Agent Quadra: Beta Quadra value methodology (Valuing Se/Fe/Ti/Ni and opposing Te/Si) is correct.",
+      "Agent Functions: SEE Model A positions (Se Lead, Fi Creative, Ti PoLR, Te Mobilizing, Ni Suggestive) are canonically correct.",
+      "Agent Functions: Theoretical correlation between 'Mobilizing Te' and 'seeking validation through external metrics' is accurate."
+    ],
+    "recommended_type": "SEE",
+    "confidence_adjustment": "High confidence in theoretical definitions. Disagreement is purely interpretative. Recommendation leans SEE due to the 'Te Mobilizing' evidence (ratings obsession) fitting better than 'Te Demonstrative'.",
+    "summary": "All agents used correct Socionics theory. The conflict is centered on whether the subject's use of facts represents 'Strength but Indifference' (SLE - Te Demonstrative) or 'Weakness but Aspiration' (SEE - Te Mobilizing). The 'obsession' with metrics noted by Agent Functions points more strongly to the Aspiration (Mobilizing) function."
+  },
+  "final_result": {
+    "agent_predictions": {
+      "reinin_predicted": "SLE",
+      "quadra_predicted": "SLE",
+      "functions_predicted": "SEE"
+    },
+    "validation_summary": {
+      "errors_found": "None provided in input.",
+      "discounted_claims": "None."
+    },
+    "synthesis": {
+      "agreements": "All agents agree on Leading Se (Extroverted Sensing) as the dominant driver, characterizing the subject by force, will, dominance, and a desire for territory/status.",
+      "disagreements": "The primary disagreement is between Auxiliary Ti (SLE) and Auxiliary Fi (SEE), and consequently Beta vs. Gamma Quadra. Agent Functions argued for Creative Fi (interpersonal maneuvering) and Ti PoLR (rules), while Agents Reinin and Quadra argued for Creative Ti (hierarchical/subjective logic) and Mobilizing Fe (emotional atmosphere/rallies).",
+      "majority_type": "SLE",
+      "resolution": "The consensus favors SLE (2 votes vs 1). The analysis emphasizes Beta Quadra values (Fe emotional impact/rallies and Ti hierarchical structures) over Gamma values. The subject's use of logic as a flexible tool for dominance (Creative Ti) and reliance on crowd energy (Mobilizing Fe) outweighed the arguments for relational ethics (Fi)."
+    },
+    "final_type": "SLE",
+    "type_name": "Sensory Logical Extrovert",
+    "type_nickname": "Zhukov",
+    "quadra": "Beta",
+    "confidence_score": 92,
+    "confidence_explanation": "Strong consensus (2/3 agents) identifying the subject as a decisive Se-leading type. The alignment of Reinin Dichotomies and Quadra Values creates a robust case for SLE, particularly highlighting the Fe-Mobilizing aspect (branding/crowds) which distinguishes SLE from the more individualistic SEE.",
+    "key_traits": [
+      "Dominant Willpower",
+      "Hierarchical Thinking",
+      "Crowd Manipulation",
+      "Strategic Pragmatism"
+    ],
+    "function_stack": "Se-Ti-Ne-Fi-Ni-Fe-Si-Te",
+    "summary": "Donald Trump exemplifies the SLE 'Zhukov' archetype, driven by Leading Se which seeks dominance, territory, and tangible impact. His Creative Ti manifests not as academic rigor, but as a subjective logical framework used to negotiate power dynamics and enforce hierarchy. With Mobilizing Fe, he thrives on the emotional energy of crowds and dramatic narratives, while his Demonstrative Te allows for bold business moves that serve his larger vision, even if he neglects the finer details of objective efficiency."
+  }
+}

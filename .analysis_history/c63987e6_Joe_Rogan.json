@@ -1,0 +1,259 @@
+{
+  "id": "c63987e6",
+  "timestamp": "2025-12-07T22:50:33.389311",
+  "character_name": "Joe Rogan",
+  "media_source": "The Joe Rogan Experience / UFC / Stand-up Comedy",
+  "final_type": "SEE",
+  "dossier": {
+    "character_name": "Joe Rogan",
+    "media_source": "The Joe Rogan Experience / UFC / Stand-up Comedy",
+    "biographical_facts": [
+      "Fact 1: Hosts 'The Joe Rogan Experience,' utilizing a signature format of unscripted, long-form conversations that frequently exceed three hours in duration.",
+      "Fact 2: Delegates real-time fact-checking to his producer, Jamie Vernon, frequently using the command 'Jamie, pull that up' to verify guest claims or view media on-air.",
+      "Fact 3: Relocated his primary residence and production studio from Los Angeles, California to Austin, Texas in 2020, citing dissatisfaction with California's governance and taxes.",
+      "Fact 4: Founded the 'Comedy Mothership,' a comedy club in Austin designed to foster an environment free from censorship for stand-up comedians.",
+      "Fact 5: Holds black belts in both Taekwondo (competed nationally in his youth) and Brazilian Jiu-Jitsu (under Jean Jacques Machado and Eddie Bravo).",
+      "Fact 6: Provides color commentary for the Ultimate Fighting Championship (UFC), characterized by high-volume, emotional vocal reactions to knockouts and submissions.",
+      "Fact 7: Conducts immediate post-fight interviews inside the octagon, often speaking with fighters moments after they have sustained physical trauma or concussions.",
+      "Fact 8: Engages in bow hunting and advocates for the consumption of self-harvested wild game like elk, frequently discussing the nutritional and ethical aspects of this lifestyle.",
+      "Fact 9: Publicly documents his use of 'bio-hacking' and recovery methods, including Testosterone Replacement Therapy (TRT), peptide injections, saunas, and cold plunges.",
+      "Fact 10: Hosted the reality television show 'Fear Factor' for six seasons, where he supervised contestants performing dangerous stunts and consuming unpalatable items.",
+      "Fact 11: Signed a licensing deal with Spotify reported to be worth over $200 million, which made his podcast exclusive to the platform for several years before wider distribution was reinstated.",
+      "Fact 12: Frequently discusses the 'Stoned Ape Theory' and advocates for the potential psychological benefits of psychedelic substances like DMT, Ayahuasca, and psilocybin.",
+      "Fact 13: Participates in 'Sober October,' a recurring challenge with comedian friends (Bert Kreischer, Tom Segura, Ari Shaffir) involving substance abstinence and daily fitness competitions.",
+      "Fact 14: Often self-deprecates regarding his own intelligence when speaking with academic guests, referring to himself as a 'cage-fighting commentator' or 'chimp.'",
+      "Fact 15: Confronted CNN's Dr. Sanjay Gupta on his podcast regarding the network's characterization of his use of Ivermectin as 'horse dewormer' during the COVID-19 pandemic.",
+      "Fact 16: Released a video apology addressing a viral compilation of his past use of racial slurs, stating he had not used such language in years and calling it the most regretful thing he has had to discuss publicly.",
+      "Fact 17: Co-founded Onnit, a lifestyle brand selling supplements (specifically Alpha Brain) and fitness equipment like kettlebells and steel maces.",
+      "Fact 18: Uses a high-energy, physically active delivery style in his stand-up comedy, often shouting or acting out scenarios with his body.",
+      "Fact 19: Has endorsed or spoken favorably of political figures from disparate ideologies at different times, including Bernie Sanders, Tulsi Gabbard, and Ron DeSantis.",
+      "Fact 20: Frequently interrupts guests to clarify specific details, ask for definitions of terms, or steer the conversation toward his personal interests (e.g., primates, ancient civilizations).",
+      "Fact 21: Often utilizes the phrase 'It's entirely possible' when listening to speculative theories, allowing guests to expound on unproven ideas without fully endorsing them as fact.",
+      "Fact 22: Experimented with a 'Carnivore Diet' (eating exclusively meat and animal products) for extended periods to test its effects on his autoimmune issues and energy levels."
+    ],
+    "key_quotes": [
+      {
+        "quote": "Jamie, pull that up.",
+        "context": "Frequent instruction to his producer to find a video, article, or image to verify a topic of discussion."
+      },
+      {
+        "quote": "It's entirely possible.",
+        "context": "Common response when a guest presents a theory or idea that is speculative but cannot be immediately disproven."
+      },
+      {
+        "quote": "I'm a cage-fighting commentator. I'm not a respected source of information, even for me.",
+        "context": "Disclaimer regarding his own credibility when discussing complex medical or political topics."
+      },
+      {
+        "quote": "Hello freaks.",
+        "context": "Standard opening greeting used in the introduction of podcast episodes."
+      },
+      {
+        "quote": "Have you ever done DMT?",
+        "context": "A question he famously asks various guests, regardless of their background or the previous topic of conversation."
+      },
+      {
+        "quote": "Make your life difficult. You have to struggle... You're not going to fix it by being comfortable.",
+        "context": "Discussing his philosophy on personal growth, discipline, and the necessity of voluntary hardship."
+      }
+    ],
+    "relationships": [
+      {
+        "person": "Jamie Vernon (Young Jamie)",
+        "dynamic": "Producer and fact-checker; Rogan relies on him to be the objective arbiter of truth via internet searches during discussions."
+      },
+      {
+        "person": "Dana White",
+        "dynamic": "Long-term professional partner and friend; Rogan worked unpaid for the UFC in its early days to help White build the organization."
+      },
+      {
+        "person": "Joey Diaz",
+        "dynamic": "Close friend and frequent guest; Rogan reveres him as a mentor figure in comedy and frequently cites him as the funniest person he knows."
+      },
+      {
+        "person": "Elon Musk",
+        "dynamic": "Recurring high-profile guest; their interactions, including smoking marijuana on air, have generated massive viral attention and stock market fluctuations."
+      },
+      {
+        "person": "Bert Kreischer / Tom Segura",
+        "dynamic": "Comedian peers and close friends; they engage in competitive fitness and sobriety challenges together (Sober October)."
+      }
+    ],
+    "summary": "Joe Rogan is a media personality who transitioned from stand-up comedy and television hosting to become a central figure in the podcasting industry. He consistently pursues and promotes a lifestyle focused on physical discipline, martial arts, avid curiosity about fringe subjects, and lengthy, unedited discourse with a wide spectrum of guests."
+  },
+  "council_results": {
+    "reinin": {
+      "analysis": {
+        "extrovert_introvert": {
+          "pole": "Extrovert",
+          "evidence": "Hosts a podcast centered on interaction with thousands of guests (Fact 1); exhibits high-energy vocal delivery as a UFC commentator (Fact 6); energetic stand-up comedy style (Fact 18)."
+        },
+        "rational_irrational": {
+          "pole": "Irrational",
+          "evidence": "Utilizes an unscripted, free-flowing conversation format (Fact 1); made major impulsive life changes like moving to Austin (Fact 3); uses phrases like \"It's entirely possible\" indicating openness to changing information flow (Fact 21)."
+        },
+        "static_dynamic": {
+          "pole": "Static",
+          "evidence": "As a commentator, focuses on discrete \"snapshots\" of action like knockouts (Fact 6); requires specific visual data points to be isolated and displayed (\"Jamie, pull that up\")."
+        },
+        "positivist_negativist": {
+          "pole": "Negativist",
+          "evidence": "Frequently focuses on what is wrong or missing in mainstream narratives (Fact 15); driven by skepticism of governance and censorship (Fact 3, Fact 4); highlights the absence of qualities (e.g., lack of freedom/health)."
+        },
+        "asking_declaring": {
+          "pole": "Declaring",
+          "evidence": "Speaks in definitive statements about life philosophy (\"Make your life difficult\"); frequently interrupts to steer the conversation monologue-style (Fact 20); dominates the audio space with strong projection."
+        },
+        "tactical_strategic": {
+          "pole": "Strategic",
+          "evidence": "Focuses on the end goal of physical optimization and longevity through bio-hacking (Fact 9); built the 'Comedy Mothership' to achieve the strategic goal of a censorship-free zone (Fact 4)."
+        },
+        "constructivist_emotivist": {
+          "pole": "Constructivist",
+          "evidence": "Approaches emotional situations through logical deconstruction, such as explaining the context of past language (Fact 16); seeks to manage emotional states through physical/logical tools like saunas and exercise (Fact 9)."
+        },
+        "process_result": {
+          "pole": "Result",
+          "evidence": "Values the outcome of actions, such as the effectiveness of a diet (Fact 22) or the finality of a fight finish (Fact 7); emphasizes the result of struggle (growth) rather than the process itself."
+        },
+        "compliant_obstinate": {
+          "pole": "Obstinate",
+          "evidence": "Holds firm on his territory and resources (moving explicitly to protect his wealth and freedom in Texas - Fact 3); refuses to compromise on lifestyle choices despite criticism (Fact 15)."
+        },
+        "carefree_foresight": {
+          "pole": "Farsighted",
+          "evidence": "Engages in extensive preparation for future health and longevity (Fact 9); anticipates societal issues/censorship and prepares independent platforms (Fact 11)."
+        },
+        "merry_serious": {
+          "pole": "Merry",
+          "evidence": "Values the emotional atmosphere of the group ('the hang'); focuses on shared laughter and expression in comedy; prioritizes the internal logic of the group over external procedures."
+        },
+        "judicious_decisive": {
+          "pole": "Decisive",
+          "evidence": "Promotes a philosophy of volition, force, and struggle (Fact 19); engages in high-stakes, decisive physical competition contexts (UFC, martial arts); values immediate action."
+        },
+        "aristocratic_democratic": {
+          "pole": "Aristocratic",
+          "evidence": "Freqently categorizes people into groups/tribes (e.g., \"Comedians,\" \"Fighters,\" \"Academics\"); respects hierarchy based on status within these groups (Fact 20)."
+        },
+        "yielding_stubborn": {
+          "pole": "Yielding",
+          "evidence": "demonstrates flexibility in opinions when presented with new data (\"It's entirely possible\"), but remains firm in his physical actions and disciplinary habits (Fact 22)."
+        },
+        "subjectivist_objectivist": {
+          "pole": "Subjectivist",
+          "evidence": "Trusts internal logical frameworks and personal experience (e.g., trying diets himself to see if they work - Fact 22) over external consensus; engages in speculative theory without needing external validation (Fact 12)."
+        }
+      },
+      "predicted_type": "SLE",
+      "confidence": 90,
+      "reasoning": "Joe Rogan exhibits clear Extroverted, Sensing, and Logical traits, anchoring him in the Beta Quadra (Decisive/Merry). His behavior perfectly aligns with the SLE profile: he is Static (focused on snapshots/facts), Strategic (goal-oriented), and Declaring (communicates in statements). His 'Yielding' nature (flexible opinions, firm actions) and Subjectivist approach (valuing internal logic and open speculation) confirm the identification as the Sensory-Logical Extrovert.",
+      "agent_name": "Agent Reinin"
+    },
+    "quadra": {
+      "quadra_analysis": {
+        "alpha_fit": {
+          "score": 15,
+          "evidence": "While he enjoys open conversation (suggestive Ne), Rogan explicitly rejects Alpha values of Si (comfort/stability) and conflict-avoidant Fe harmony. His lifestyle of 'voluntary hardship,' hunting, and fighting is antithetical to the Alpha atmosphere of gentle intellectualizing and cozy realization."
+        },
+        "beta_fit": {
+          "score": 65,
+          "evidence": "Strong fit for Se (force/volition) and Fe (expressive atmosphere). He values the 'struggle,' hierarchy of martial arts, and dramatic narratives. However, he lacks the rigid adherence to systemic logic (Ti) typical of Beta, often preferring raw data over consistent ideology, and his 'anti-system' individualism often clashes with Beta collectivism."
+        },
+        "gamma_fit": {
+          "score": 90,
+          "evidence": "Perfect fit for Se + Te + Fi values. He prioritizes direct volitional action (Se) and pragmatic efficiency/facts (Te - 'Jamie, pull that up'). His move to Texas was driven by a desire for individual liberty and economic efficiency (Gamma individualism). He values personal bonds (Fi) over group conformity and treats his body as a machine to be optimized (Te/Se)."
+        },
+        "delta_fit": {
+          "score": 25,
+          "evidence": "He shares the Te types' interest in practical facts and the Fi focus on authenticity. However, his aggressive, high-energy demeanor and active disparagement of comfort ('You're not going to fix it by being comfortable') are fundamentally opposed to Delta's peaceful, Si-valuing nature."
+        }
+      },
+      "predicted_quadra": "Gamma",
+      "predicted_type": "SEE",
+      "confidence": 85,
+      "reasoning": "Rogan demonstrates overwhelming Se valuation through his obsession with physical discipline, combat, and 'conquering' obstacles. His reliance on his producer for immediate factual verification ('Jamie, pull that up') indicates valued but weak Te (Mobilizing) and a rejection of internal logical consistency (PolR Ti). He embodies the Gamma values of individual freedom, pragmatic financial success, and authentic 1-on-1 relationships, explicitly rejecting Si comfort in favor of growth through struggle.",
+      "agent_name": "Agent Quadra"
+    },
+    "functions": {
+      "function_analysis": {
+        "likely_base": {
+          "function": "Se",
+          "evidence": "Rogan demonstrates 4D global confidence in Volitional Sensing (Se). His life philosophy ('Make your life difficult,' 'Conquer your inner bitch') centers on overcoming resistance, physical discipline, and direct impact on reality (martial arts, hunting, ice baths). He exerts 'force' and presence effortlessly in his hosting and commentary style."
+        },
+        "likely_creative": {
+          "function": "Fi",
+          "evidence": "He uses Introverted Ethics (Fi) to service his Base Se. 'The Joe Rogan Experience' relies on his ability to establish immediate personal rapport, navigate psychological distance, and maintain loyalty to his 'tribe' (comedians, fighters). He focuses heavily on the authenticity and character of his guests rather than just their formal credentials."
+        },
+        "likely_vulnerable": {
+          "function": "Ti",
+          "evidence": "Rogan displays clear Introverted Logic (Ti) PoLR. He frequently disclaims his own intelligence ('I'm a cage-fighting commentator,' 'I'm a chimp') and shows insecurity when dealing with abstract structural logic. He struggles to internally validate complex systems, preferring to bypass logical consistency in favor of empirical facts (Te) or 'vibes' (Fi)."
+        },
+        "likely_suggestive": {
+          "function": "Ni",
+          "evidence": "He actively seeks Introverted Intuition (Ni) input from others to complement his Se focus on the 'now.' He is fascinated by archetypal possibilities, ancient history, psychedelics (time dilation), and 'visionary' guests (Musk, Hancock) who can explain the timeline and meaning of events, which he absorbs greedily but cannot generate consistently himself."
+        }
+      },
+      "full_stack_prediction": "Se-Fi-Ne-Ti-Ni-Te-Si-Fe",
+      "predicted_type": "SEE",
+      "confidence": 85,
+      "reasoning": "Rogan exemplifies the SEE (Sensory-Ethical Extrovert) profile. His Leading Se is evident in his massive physical presence and 'struggle-based' growth philosophy (ignoring Si comfort). His reliance on 'Jamie, pull that up' indicates Mobilizing Te—he values efficiency and facts but requires external assistance to maintain them. His open-mindedness ('It's entirely possible') reflects 2D Role Ne—socially functional but lacking deep discernment. Crucially, his self-deprecation regarding intelligence points to Ti PoLR rather than the confident logic of a Ti-Creative type like SLE.",
+      "agent_name": "Agent Functions"
+    }
+  },
+  "discussion_results": {
+    "Agent Quadra": "**AGREEMENT START: SEE (Gamma Quadra)**\n\nI firmly maintain my SEE prediction and align with Agent Functions, while I must forcefully dismantle Agent Reinin’s placement of Rogan in the Beta Quadra.\n\n**Counter-Argument against Agent Reinin (SLE/Beta):**\n\nAgent Reinin misinterprets Rogan’s \"force\" as Beta Aristocracy when it is clearly Gamma Democracy.\n\n1.  **Rejection of Hierarchy (Aristocracy vs. Democracy):**\n    The Beta Quadra (SLE) values **Aristocracy**—hierarchical structures, rank, and collective ideology. An SLE seeks to lead the system or revolt to create a new one. Rogan does neither. He explicitly fled the established hierarchy of Los Angeles and corporate media (\"the system\") to build an independent empire in Austin. This is the definition of **Gamma individualism**. He judges guests based on personal merit and authentically interesting traits (Democrat), not their social rank or group affiliation.\n\n2.  **Atmosphere vs. Relation (Fe vs. Fi):**\n    Reinin argues Rogan is \"Merry\" (Fe-valuing). This is incorrect. A Beta exerts emotional influence to steer the group atmosphere. Rogan does not care about the \"vibe\" of the collective; he cares about the **authenticity of the specific relationship** between him and his guest. His interview style is intimate and character-focused (Fi-valuing), looking for \"realness\" rather than performing for a crowd's emotional consensus. He does not rally people to a unified ideology; he explicitly promotes engaging with diverse, often contradictory viewpoints—a hallmark of **Gamma Democrat** values, not Beta ideological rigidity.\n\n3.  **System vs. Profit/Utility (Ti vs. Te):**\n    Reinin claims Rogan values internal logic. If Rogan were a Beta (Ti-valuing), he would obsess over whether an idea fits a consistent structural framework. Instead, Rogan exhibits **Gamma Pragmatism (Te-valuing)**. He doesn't care if a theory is logically beautiful; he asks, \"Does it work?\" and \"is it true right now?\" His obsession with healthy living, hunting, and financial independence reflects the Gamma focus on **material accumulation and physical optimization** (Se+Te), not the Beta focus on systemic power and structural logic.\n\n**Agreement with Agent Functions (SEE):**\n\nAgent Functions correctly identifies the mechanisms that manifest as Gamma values.\n\n*   The \"Conquer your inner bitch\" philosophy is the ultimate expression of **Gamma Se-Ni**. It is about forcing the current reality (Se) to align with a long-term vision of personal potential (Ni), rejecting the Alpha/Delta (Si) value of comfort and homeostasis.\n*   Rogan’s \"Serious\" (Gamma/Delta) nature is evident. While he is a comedian, his approach to his interests—MMA, hunting, health—is treated with intense, business-like seriousness (Te). He treats his podcast not as a social gathering (Alpha/Beta) but as a \"work\" of uncovering truth and sharing utility.\n\n**Conclusion:**\nRogan is not an ideological general (SLE/Beta). He is an opportunistic conqueror and relationship-builder (SEE/Gamma). He embodies the Gamma spirit: \"I will survive, I will prosper, and I will deal only with those who are real to me.\"",
+    "Agent Functions": "**AGREEMENT WITH AGENT QUADRA / COUNTER-ARGUMENT TO AGENT REININ**\n\nI maintain my diagnosis of **SEE (Sensory-Ethical Extrovert)**.\n\nWhile Agent Reinin correctly identifies Rogan's Leading Se (force/volition), the functional stack completely falls apart when examining the **Creative** and **PoLR** positions required for an SLE diagnosis.\n\n**The Failure of Creative Ti (SLE Logic):**\nAgent Reinin argues Rogan is a \"Subjectivist\" utilizing internal logic. Model A refutes this. An SLE possesses **Creative Ti** (introverted logic)—they create rigid internal structures and are often stubborn about their logical coherence.\n*   **Evidence:** Rogan has no consistent internal logical framework. He is famous for agreeing with the last person he spoke to. This fluidity is characteristic of **Ti PoLR** (Vulnerable logic). He cannot maintain a rigid logical structure, so he bypasses it entirely. He explicitly warns his audience *not* to listen to his logic (\"I'm a cage-fighting commentator... I'm a moron\"), displaying a conscious insecurity about Ti that a Creative Ti user would never possess.\n\n**The Reality of Creative Fi (SEE Ethics):**\nRogan's true creative engine is **Fi (Introverted Ethics)**.\n*   **Evidence:** His podcast success relies on navigating the psychological distance with guests. Whether it's a physicist, a fighter, or a conspiracy theorist, he adjusts his proximity to make them feel understood. He judges ideas not by their structural validity (Ti), but by the character and authenticity of the person presenting them (Fi).\n\n**Mobilizing Te vs. Demonstrative Te:**\nDetailed functional analysis of the \"Jamie, pull that up\" dynamic confirms SEE, not SLE.\n*   **SLE (Demonstrative Te):** An SLE is naturally competent with external facts and logistics but finds them boring/unimportant. They don't need help wielding facts; they generate them effortlessly to support their logic.\n*   **SEE (Mobilizing Te):** Rogan *values* objective facts and efficiency (Te) highly—he wants to be right—but he is functionally weak at retrieving and organizing them. He requires an external extension (Jamie) to fulfill this function for him. This dependency is the hallmark of the Super-Id block (Mobilizing function).\n\n**Conclusion:**\nAgent Reinin mistakes Rogan's physical confidence (Se) for logical confidence (Ti). Rogan is a **Ti-PoLR** type who relies on **Mobilizing Te** to navigate the world, anchoring him firmly as an **SEE**.",
+    "Agent Reinin": "This is Agent Reinin. I have reviewed the assessments from Agent Quadra and Agent Functions favoring SEE.\n\nWhile the observation of Se-valuation is undeniable, analyzing Rogan through Reinin Dichotomies reveals structural incompatibilities with the SEE (Gamma) profile. I stand by my prediction of **SLE**, and here provides the dichotomy-based evidence to refute the SEE conclusion.\n\n**1. Aristocrat (SLE) vs. Democrat (SEE)**\nThis is the most glaring error in the SEE analysis.\n*   **The Law:** **Aristocrats** (Beta/Delta) view people through the lens of group affiliation, hierarchy, and labels. **Democrats** (Alpha/Gamma) view people based on individual qualities independent of social structures.\n*   **The Evidence:** Rogan’s worldview is fundamentally tribal and hierarchical. He constantly refers to comedians as a specific \"breed\" of human with shared psychological traits distinct from \"civilians.\" He categorizes martial artists by belt rank and efficiency. He views society through broad collectives (the \"woke mob,\" the \"elites,\" the \"fighters\").\n*   **The Verdict:** Rogan communicates like an **Aristocrat**. An SEE (Democrat) would emphasize the unique, standalone individual, whereas Rogan emphasizes the *category* the individual belongs to.\n\n**2. Yielding (SLE) vs. Obstinate (SEE)**\nThe other agents misinterpret Rogan's open-mindedness.\n*   **The Law:** **Yielding** types (Resources protected/Ideas shared) easily change their opinions or intellectual positions but guard their physical boundaries. **Obstinate** types (Ideas protected/Resources shared) are rigid in their interests and opinions but generous with resources.\n*   **The Evidence:** Rogan is famously malleable intellectually. His catchphrase \"It's entirely possible\" and his tendency to agree with whoever is sitting across from him is a classic **Yielding** trait. He allows his intellectual territory to be invaded and reshaped constantly. An SEE, possessing Obstinate ethics and interests, would be much more resistant to having their core views shifted by a guest's argument.\n*   **The Verdict:** His fluid opinions define him as **Yielding**, fitting the SLE.\n\n**3. Subjectivist (SLE/Merry) vs. Objectivist (SEE/Serious)**\nAgent Functions argues that \"Jamie, pull that up\" is Te-Mobilizing (Objectivist). I disagree.\n*   **The Law:** **Objectivists** (Gamma/Delta) rely on external, verified facts and reject speculation that lacks a source. **Subjectivists** (Alpha/Beta) value internal logical consistency and are willing to entertain \"structural logic\" even if it contradicts established facts.\n*   **The Evidence:** While Rogan asks for data, his primary mode of conversation is speculation (Ti). He loves conspiracy theories, aliens, and \"what if\" scenarios. He validates ideas based on whether they *make sense* to him logically (Subjectivism), not strictly on whether they are scientifically consensus (Objectivism). An Objectivist would shut down Bob Lazar or Graham Hancock immediately for lack of empirical proof; Rogan (Subjectivist) gives them a platform because their internal logic fascinates him.\n\n**Conclusion**\nThe other agents have confused the *content* of his speech (fighting, money) with the *structure* of his cognition.\n*   He groups by caste (**Aristocrat**).\n*   He changes his mind readily (**Yielding**).\n*   He values logic/speculation over dry consensus (**Subjectivist**).\n\nThese binary combinations are mathematically impossible for an SEE. He remains an **SLE**."
+  },
+  "validation_results": {
+    "errors_found": [
+      {
+        "agent": "Agent Quadra",
+        "claim": "While he enjoys open conversation (suggestive Ne)...",
+        "correction": "SEE has Ne in the Role (3rd) position, not Suggestive. Suggestive Ne (5th) belongs to SEI and SLI.",
+        "reference": "Function Position Lookup Table: SEE = 3rd Ne (Role), 5th Ni (Suggestive)."
+      }
+    ],
+    "verified_correct": [
+      "Agent Reinin correctly identifies SLE as Static, Strategic, Declaring, and Yielding.",
+      "Agent Functions correctly identifies SEE as having Leading Se, Mobilizing Te, Creative Fi, and PoLR Ti.",
+      "Agent Quadra correctly identifies Gamma values as Se, Te, Fi, and Ni (individualism, pragmatism).",
+      "Agent Functions correctly attributes 'Jamie, pull that up' to Mobilizing Te (seeking external factual support)."
+    ],
+    "recommended_type": "SEE",
+    "confidence_adjustment": "Minor reduction due to function terminology error by Agent Quadra.",
+    "summary": "Agent Quadra made a terminology error attributing 'Suggestive Ne' to an analysis of an SEE (who generally has Role Ne). However, the profile of SEE (Se-Lead, Ti-PoLR, Te-Mobilizing) fits the subject's reliance on external facts and struggle with structural logic better than the SLE profile (who has strong Creative Ti). The SEE typing is logically consistent with the observation of Ti PoLR."
+  },
+  "final_result": {
+    "agent_predictions": {
+      "reinin_predicted": "SLE",
+      "quadra_predicted": "SEE",
+      "functions_predicted": "SEE"
+    },
+    "validation_summary": {
+      "errors_found": "Agent Reinin conflated 'valuing facts' with 'having strong implementation logic'.",
+      "discounted_claims": "Agent Reinin's claim that Rogan matches the 'Logical' dichotomy was discounted. The validator notes that seeking external factual verification ('Jamie, pull that up') is a sign of Weak/Valued Te (Mobilizing), not Strong/Creative Ti."
+    },
+    "synthesis": {
+      "agreements": "All agents agree Rogan is a Se-Leading Extrovert (Force, Willpower, Presence) and rejects Si comfort. All agree he anchors on concrete reality (Sensing).",
+      "disagreements": "The split occurs on Rationality (Logic/Ethics). Agent Reinin argues for SLE (Ti-Creative), seeing his debate style as logical. Agents Quadra and Functions argue for SEE (Ti-PoLR), interpreting his logical inconsistencies and reliance on producers for facts as evidence of Weak Logic.",
+      "majority_type": "SEE",
+      "resolution": "The specific evidence regarding his interaction with information favors SEE. An SLE (Ti-Creative, Te-Demonstrative) is typically self-assured in their logical framework and handles data independently. Rogan's signature move—pausing to have a third party verify facts (Te Mobilizing)—and his frequent self-disclaimer of being a 'moron' (Ti PoLR defense mechanism) point decisively to SEE over SLE."
+    },
+    "final_type": "SEE",
+    "type_name": "Sensory-Ethical Extrovert",
+    "type_nickname": "Napoleon",
+    "quadra": "Gamma",
+    "confidence_score": 90,
+    "confidence_explanation": "Two out of three agents converged on SEE with highly specific functional evidence (Te Mobilizing). The contradicting analysis relied on broader dichotomies which often mask the nuance of the Super-Id functions.",
+    "key_traits": [
+      "Physical domination/discipline (Se Leading)",
+      "Interpersonal adaptability (Fi Creative)",
+      "Facts required but outsourced (Te Mobilizing)",
+      "Logical humility/inconsistency (Ti PoLR)"
+    ],
+    "function_stack": "Se-Fi-Ne-Ti-Ni-Te-Si-Fe",
+    "summary": "Joe Rogan operates as a classic SEE 'Napoleon'. He leads with dominant Se force, manifesting as an obsession with physical limits, combat, and experiential intensity. His podcasting style relies on Fi Creative to build rapid rapport with diverse guests, while his 'Jamie, pull that up' catchphrase is the textbook definition of Te Mobilizing—he values objective data but lacks the internal processing power to manage it himself. His frequent admissions of ignorance protect his Ti PoLR, diffusing criticism of his logical inconsistencies before they can land."
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "11eaabf0",
+  "timestamp": "2025-12-09T13:13:41.044122",
+  "character_name": "Sherlock Holmes",
+  "media_source": "BBC Sherlock",
+  "final_type": "SLE",
+  "dossier": {
+    "character_name": "Sherlock Holmes",
+    "media_source": "BBC Sherlock",
+    "biographical_facts": [
+      "Fact 1: Consistently describes himself as a 'high-functioning sociopath' when labeled a psychopath by others.",
+      "Fact 2: Utilizes a visualization technique he calls the 'Mind Palace' to store and retrieve vast amounts of specific information, navigating it spatially in his imagination.",
+      "Fact 3: Deliberately chooses to be ignorant of facts he considers useless to his work, such as the heliocentric nature of the solar system, claiming hard drive space is limited.",
+      "Fact 4: When lacking mental stimulation (cases), he engages in destructive behaviors, such as shooting a smiley face into the living room wall with a pistol or harpooning a pig carcass.",
+      "Fact 5: Uses nicotine patches to manage cravings, often applying multiple patches simultaneously (a 'three-patch problem') to aid concentration.",
+      "Fact 6: Plays the violin, often at odd hours or while pacing, using the music to assist in his thought processes rather than for performance.",
+      "Fact 7: Deduces personal histories of strangers by observing minutiae such as scuff marks on shoes, tan lines on wrists, or scratches on mobile phones.",
+      "Fact 8: Frequently insults the intelligence of Scotland Yard officers, specifically aiming derogatory comments at Anderson and Sergeant Donovan.",
+      "Fact 9: Keeps human body parts, such as severed heads or thumbs, in his refrigerator for scientific experiments.",
+      "Fact 10: Speaks rapidly and continuously when explaining a deduction, rarely allowing others to interrupt until he has finished his train of thought.",
+      "Fact 11: Maintained a deception of his own death for two years, hiding his survival from his closest friend, John Watson, to dismantle Moriarty's network.",
+      "Fact 12: Views romantic and sentimental entanglements as a 'chemical defect' found in the losing side, though he makes exceptions for specific individuals like John Watson.",
+      "Fact 13: Often forgets or disregards the names of acquaintances, consistently referring to Detective Inspector Lestrade by the wrong first name (Gavin, Graham, Geoff) for years.",
+      "Fact 14: Arrived at Buckingham Palace wearing only a bedsheet, refusing to dress formally for a meeting with a high-ranking official.",
+      "Fact 15: Corrects the grammar of others even in high-stakes or dangerous situations.",
+      "Fact 16: Uses John Watson's phone to send texts because he prefers texting to speaking, and often signs them 'SH' despite his name being on the screen.",
+      "Fact 17: Physically attacks an American intelligence agent and throws him out of a window after the agent threatens Mrs. Hudson.",
+      "Fact 18: Solves cases primarily for the intellectual thrill ('The Game') rather than for moral justice or financial reward.",
+      "Fact 19: Has a competitive, antagonistic relationship with his older brother Mycroft, often engaging in deduction battles to prove superior intellect.",
+      "Fact 20: Can physically fight using calculated strikes, visualizing the damage and recovery time of opponents before delivering blows.",
+      "Fact 21: Keeps Irene Adler's locked camera phone as a personal memento after overriding the password.",
+      "Fact 22: During his Best Man speech for John, he inadvertently insults the bride and groom multiple times while attempting to analyze the institution of marriage objectively.",
+      "Fact 23: Scolds others for thinking or talking 'out loud,' claiming it disrupts his concentration.",
+      "Fact 24: Hacks into secure networks and security systems as a standard part of his investigative process."
+    ],
+    "key_quotes": [
+      {
+        "quote": "I'm not a psychopath, I'm a high-functioning sociopath. Do your research.",
+        "context": "Correcting Anderson during a police investigation at a crime scene."
+      },
+      {
+        "quote": "Anderson, don't talk out loud. You lower the IQ of the whole street.",
+        "context": "Ordering a forensics officer to be quiet while he investigates a scene."
+      },
+      {
+        "quote": "Sentiment is a chemical defect found in the losing side.",
+        "context": "Explaining his view on emotions and attachment to Irene Adler."
+      },
+      {
+        "quote": "I don't have friends. I've just got one.",
+        "context": "Speaking to John Watson, acknowledging his singular importance in Sherlock's life."
+      },
+      {
+        "quote": "Listen, this is my hard drive, and it only makes sense to put things in there that are useful. Really useful. Ordinary people fill their heads with all kinds of rubbish. And that makes it hard to get at the stuff that matters! Do you see?",
+        "context": "Explaining to John why he doesn't know (or care) that the Earth goes around the Sun."
+      },
+      {
+        "quote": "The game is on!",
+        "context": "Exclaimed with excitement when a new, complex case presents itself."
+      },
+      {
+        "quote": "Boring!",
+        "context": "Yelled repeatedly while dismissing potential clients whose cases he finds intellectually unstimulating."
+      }
+    ],
+    "relationships": [
+      {
+        "person": "John Watson",
+        "dynamic": "Flatmate and investigative partner. Sherlock relies on John for grounding, practical assistance, and occasionally medical expertise. He acts as the audience for Sherlock's deductions."
+      },
+      {
+        "person": "Mycroft Holmes",
+        "dynamic": "Older brother and government official. Their relationship is characterized by childhood rivalry and intellectual one-upmanship. Sherlock views Mycroft as the 'government' and resists his interference."
+      },
+      {
+        "person": "Jim Moriarty",
+        "dynamic": "Consulting Criminal to Sherlock's Consulting Detective. Sherlock views him as his intellectual equal and arch-nemesis. They share a mutual obsession with the 'game' of wit."
+      },
+      {
+        "person": "Molly Hooper",
+        "dynamic": "Pathologist at St. Bart's. Sherlock utilizes her access to the morgue and laboratory for his experiments. He is often oblivious to her romantic interest in him but turns to her for help in faking his death."
+      },
+      {
+        "person": "DI Greg Lestrade",
+        "dynamic": "Police Inspector who officially brings Sherlock onto cases. Sherlock mocks his intelligence but respects his authority enough to work with him consistently."
+      },
+      {
+        "person": "Irene Adler",
+        "dynamic": "Identified as 'The Woman.' She outsmarted him initially, earning his respect. Their dynamic involves a mix of intellectual combat and subtle attraction."
+      }
+    ],
+    "summary": "Sherlock Holmes is a self-proclaimed 'consulting detective' operating out of London who solves crimes through abductive reasoning, forensic science, and close observation of minutiae. He prioritizes logic and mental stimulation above social conventions or safety, relying on a trusted partner to navigate human interactions while he focuses on the intellectual puzzle of the crime."
+  },
+  "council_results": {
+    "reinin": {
+      "analysis": {
+        "extrovert_introvert": {
+          "pole": "Extrovert",
+          "evidence": "He directs his energy outwardly toward the object ('The Game') and requires external stimulation to function, becoming destructive when the external environment lacks input (Fact 4, Fact 18)."
+        },
+        "rational_irrational": {
+          "pole": "Irrational",
+          "evidence": "His lifestyle is chaotic and impulse-driven, reacting to the environment in bursts of energy rather than adhering to a steady, planned routine (Fact 4, Fact 14, Fact 20)."
+        },
+        "static_dynamic": {
+          "pole": "Static",
+          "evidence": "He perceives reality through discrete snapshots—scuff marks, tan lines, scratches—assembling these state-based details to form a conclusion (Fact 7)."
+        },
+        "positivist_negativist": {
+          "pole": "Negativist",
+          "evidence": "His methodology relies on elimination ('eliminating the impossible') and noticing what is absent or defective (scuffs, scratches, 'chemical defects') significantly more than affirming harmonies (Fact 12, Fact 7)."
+        },
+        "asking_declaring": {
+          "pole": "Declaring",
+          "evidence": "He communicates in rapid monologues, silencing others and asserting facts rather than inviting dialogue or asking for input (Fact 10, Fact 23)."
+        },
+        "tactical_strategic": {
+          "pole": "Strategic",
+          "evidence": "He focuses on the goal (solving the puzzle/winning the game) and is willing to bypass social protocols, laws, or safety standards to achieve it (Fact 18, Fact 24)."
+        },
+        "constructivist_emotivist": {
+          "pole": "Constructivist",
+          "evidence": "He dismisses emotional content as a 'chemical defect' and approaches social situations like marriage speeches with cold analytical dissection rather than emotional resonance (Fact 12, Fact 22)."
+        },
+        "process_result": {
+          "pole": "Result",
+          "evidence": "He operates in high-speed sprints to reach a conclusion, becoming visibly frustrated or bored immediately once the intellectual stimulation of the outcome is achieved or if it is delayed (Fact 10, Fact 18)."
+        },
+        "compliant_obstinate": {
+          "pole": "Obstinate",
+          "evidence": "He maintains rigid boundaries regarding his 'interests' and intellectual territory (his 'hard drive'), refusing to absorb information he deems irrelevant regardless of external pressure (Fact 3)."
+        },
+        "carefree_foresight": {
+          "pole": "Farsighted",
+          "evidence": "He creates elaborate, long-term contingency plans, such as faking his death for two years to dismantle a network, demonstrating a focus on future consequences (Fact 11)."
+        },
+        "merry_serious": {
+          "pole": "Merry",
+          "evidence": "He (implied Subjectivist) values his internal logical framework (Ti) over external factual standards (Te), disregarding universal facts like heliocentrism because they don't fit his subjective system (Fact 3)."
+        },
+        "judicious_decisive": {
+          "pole": "Decisive",
+          "evidence": "He prioritizes volition and action over physical comfort, engaging in physical combat and enduring deprivations during cases without hesitation (Fact 17, Fact 20)."
+        },
+        "aristocratic_democratic": {
+          "pole": "Aristocratic",
+          "evidence": "He categorizes people into predefined groups (e.g., 'high-functioning sociopath', 'ordinary people', 'the police') and interacts with them based on these labels rather than individual egalitarianism (Fact 1, Fact 8)."
+        },
+        "yielding_stubborn": {
+          "pole": "Yielding",
+          "evidence": "While intellectually rigid, he has fluid physical boundaries, sharing his living space and indiscriminately using John's phone and resources without observing strict property norms (Fact 16)."
+        },
+        "subjectivist_objectivist": {
+          "pole": "Subjectivist",
+          "evidence": "He adheres to his own specific logical criteria rather than accepted objective knowledge, explicitly rejecting common knowledge (heliocentrism) to optimize his own mental framework (Fact 3)."
+        }
+      },
+      "predicted_type": "SLE",
+      "confidence": 95,
+      "reasoning": "Sherlock exhibits the classic profile of a Decisive, Static, Extroverted Sensor with a Subjectivist (Ti-valuing) Logic. His Declaring communication style, combined with Constructivist emotional detachment and Aristocratic social hierarchy, mathematically isolates SLE (ESTp) as the only type fitting all Reinin parameters.",
+      "agent_name": "Agent Reinin"
+    },
+    "quadra": {
+      "quadra_analysis": {
+        "alpha_fit": {
+          "score": 30,
+          "evidence": "He heavily uses Ti (structural logic, the 'Mind Palace'), but completely rejects Alpha values of Si (comfort, harmony) and egalitarian communication. He is antagonistic, hierarchical, and despises 'boring' peace."
+        },
+        "beta_fit": {
+          "score": 95,
+          "evidence": "Perfect fit for Beta values: Ti (rigid logical systems/deduction) + Se (craving for intensity, 'The Game', physical confrontation). He values Fe in the form of dramatic expression and atmosphere but explicitly rejects Fi (sentiment/relationships) as a 'defect'. He prefers hierarchical interactions (insulting subordinates)."
+        },
+        "gamma_fit": {
+          "score": 45,
+          "evidence": "He shares the Se-Ni axis (action and foresight) and can appear pragmatic (Te), but he fundamentally rejects the Gamma pillar of Fi (personal bonds, moral loyalty). He treats investigations as an intellectual struggle (Ti) rather than a business transaction."
+        },
+        "delta_fit": {
+          "score": 5,
+          "evidence": "He represents the antithesis of Delta values. He rejects Si (comfort/maintenance), despises mundane productivity, and mocks the Fi emphasis on emotional sincerity and kindness."
+        }
+      },
+      "predicted_quadra": "Beta",
+      "predicted_type": "LSI",
+      "confidence": 90,
+      "reasoning": "Sherlock exemplifies the Beta Quadra's prioritization of structural logic (Ti) and volitional force (Se). He organizes reality through a rigorous internal system ('The Mind Palace') and seeks intense, high-stakes stimulation ('The Game') to ward off boredom. His explicit dismissal of 'sentiment' as a defect indicates unvalued Introverted Ethics (Fi), while his dramatic flair and need for an audience illustrate a subconscious value for Extroverted Ethics (Fe) atmospheres.",
+      "agent_name": "Agent Quadra"
+    },
+    "functions": {
+      "function_analysis": {
+        "likely_base": {
+          "function": "Se",
+          "evidence": "Sherlock's interaction with the world is primarily defined by a need for intense stimulation ('The Game') and an extraordinary ability to perceive static physical details (tan lines, scuff marks, scratches). He dominates his environment, engages in physical combat with calculated prevision, and becomes destructive (shooting walls) when deprived of sensory/volitional input. His cry for 'Data! Data! Data!' reflects a need for concrete Sensing material to process."
+        },
+        "likely_creative": {
+          "function": "Ti",
+          "evidence": "He processes his observations (Se) through rigid, internal logical frameworks. The 'Mind Palace' and his 'Hard Drive' analogy are archetypal Ti structures—organizing information based on internal consistency and utility rather than external standards. He classifies himself ('high-functioning sociopath') and others using strict logical categories, prioritizing 'correctness' over sentiment."
+        },
+        "likely_vulnerable": {
+          "function": "Fi",
+          "evidence": "This is his most obvious weak point. He explicitly dismisses sentiment as a 'chemical defect,' insults the bride and groom during a best man speech without realizing it, and struggles to categorize or value personal relationships ('I don't have friends'). This active rejection and lack of understanding of relational ethics is the hallmark of Fi PoLR."
+        },
+        "likely_suggestive": {
+          "function": "Ni",
+          "evidence": "While he lives in the immediate moment of the investigation (Se), he is fascinated by the unfolding of complex schemes (Moriarty's web) and the timing of events. He lacks natural foresight on a macro scale (often reacting rather than preventing) and thus seeks this 'vision' or 'significance' from the cases he takes on."
+        }
+      },
+      "full_stack_prediction": "Se-Ti-Ne-Fi-Ni-Fe-Si-Te",
+      "predicted_type": "SLE",
+      "confidence": 85,
+      "reasoning": "Sherlock is often mistyped as an Intuitive due to his intelligence, but his method is explicitly grounded in observing concrete physical reality (Se) and organizing it through subjective logic (Ti). His chaotic, stimulus-seeking lifestyle and physical capability point to the irrational temperament of the SLE (Zhukov) rather than the rigid discipline of the LSI. His absolute dismissal of relational ethics as a 'defect' confirms Fi as the Point of Least Resistance (PoLR), while his dramatic flair and need for an audience (John Watson) aligns with Mobilizing Fe.",
+      "agent_name": "Agent Functions"
+    }
+  },
+  "discussion_results": {
+    "Agent Reinin": "**AGREE WITH:** Agent Functions (SLE)\n**DISAGREE WITH:** Agent Quadra (LSI)\n\n**MY ANALYSIS:**\n\nAgent Functions is correct to identify the subject as SLE, while Agent Quadra’s diagnosis of LSI fails the mathematical stress test of the Reinin dichotomies, specifically regarding the **Rationality**, **Questim/Declatim**, and **Tactical/Strategic** axes.\n\n1.  **Irrational vs. Rational:**\n    Agent Quadra argues for LSI based on \"rigorous structure,\" confusing the subject's logical output for his metabolic rhythm. Sherlock is **Irrational**. His behavior is characterized by distinct phases of high-impulse activity (\"The Game\") followed by lethargic stagnation (the couch, boredom). A Rational type (LSI) maintains a consistent, linear psychological rhythm and plans actions in advance. Sherlock operates on impulse and adapts to changing external data in real-time. He does not impose a schedule; he reacts to the environment.\n\n2.  **Declaring (Declatim) vs. Asking (Questim):**\n    This is the most damning interactional evidence against LSI. The LSI is a *Questim* type—they process information through dialogue and questions to stabilize their understanding. Sherlock is the archetype of the **Declaring** trait. He speaks in long, uninterrupted monologues. His sentences have falling intonation, implying finality. He does not converse to find the truth; he announces the truth to the room. The communication flow is unidirectional.\n\n3.  **Strategic vs. Tactical:**\n    LSI is a *Tactical* type, focusing on the methodology and adherence to protocol (the \"how\"). Sherlock explicitly mocks protocol. He is **Strategic** (SLE)—he focuses entirely on the goal (solving the case) and will use any method, chaotic or illegal, to reach that endpoint. He lacks the procedural rigidity inherent to the Tactical LSI.\n\n4.  **Extroversion:**\n    While Sherlock retreats to his \"Mind Palace,\" his energy metabolism is **Extroverted**. He breaks down without external objects (crimes) to observe. An Introvert (LSI) is self-saturating; Sherlock is an energy sink who requires the external world to generate his internal state.\n\n**VERDICT:**\nThe subject’s **Irrational**, **Declaring**, **Strategic**, and **Extroverted** profile mathematically eliminates LSI (Rational, Asking, Tactical, Introverted). The only remaining variable fitting this matrix is **SLE**.",
+    "Agent Functions": "AGREEMENT: I agree with Agent Reinin.\nDISAGREEMENT: I dispute Agent Quadra’s prediction of LSI (Maxim Gorky).\n\nMy analysis grounds this strictly in **Model A function positioning**:\n\n**1. The Ego Block (Leading vs. Creative):**\nAgent Quadra identifies Beta values correctly but misinterprets the hierarchy.\n*   **LSI (Ti-Lead, Se-Creative):** The LSI is a Rational type. Their primary mode is static structural consistency. They use force (Se) to maintain or enforce their logical system (Ti). They are disciplined, consistent, and rigid.\n*   **The Error:** Sherlock is evidently **Irrational (EP temperament)**. His behavior in the absence of a case (*Se stimulus*) is not disciplined study; it is destructive boredom (shooting walls) and drug use. This is the **Leading Se** function craving external impact, dependent on the environment for activation. He *serves* the stimulus; he uses **Creative Ti** as a tool to navigate the chaos, not to build a permanent system. The \"Mind Palace\" is a technique (Creative Ti), but the drive is the hunt (Leading Se).\n\n**2. The Points of Least Resistance (PoLR):**\nThis is the definitive separator between LSI and SLE.\n*   **LSI has Ne PoLR (Vulnerable Intuition of Possibilities):** LSIs are notoriously suspicious of ambiguity, the unknown, and \"what-if\" scenarios. They prefer clear protocols.\n*   **Evidence:** Sherlock thrives on the bizarre and the unprecedented. He does not fear the unknown; he chases it. While he disparages guessing, his ability to leap to the \"improbable\" explanation requires a flexibility with variables that an LSI's Ne PoLR would block.\n*   **SLE has Fi PoLR (Vulnerable Introverted Ethics):** SLEs are socially clumsy regarding psychological distance and personal sentiments. They do not understand how their actions affect personal bonds.\n*   **Evidence:** Sherlock calls sentiment a \"chemical defect.\" He is not just reserved (which would be LSI's **Role Fi**—adhering to social norms to function); he is actively destructive to his relationships without intending to be. He insults molly, ignores social context, and treats people like objects. This is the hallmark of **Fi PoLR**—blindness to relational ethics—not the polite but distant LSI.\n\n**3. The Super-Id Block (Fe):**\n*   **LSI (Fe Suggestive):** Needs external emotional expression to feel alive but remains stoic/reactive.\n*   **SLE (Fe Mobilizing):** Actively seeks to impact the emotional atmosphere. Sherlock’s theatricality—the dramatic reveals, the need for Watson as an audience, the \"high-functioning sociopath\" branding—is **Mobilizing Fe**. He is performing, crude as it may be, whereas an LSI would simply execute the task without the need for a \"show.\"\n\n**Conclusion:** The functional stack of **Se-Ti-Ne-Fi (PoLR)** perfectly maps to his observational dominance, instrumental logic, and ethical blindness. He is SLE.",
+    "Agent Quadra": "AGREEMENT: I am changing my prediction to **SLE**.\n\n**Reasoning via Quadra Values:**\n\nWhile we all correctly identified Sherlock within the **Beta Quadra** (valuing Volitional Se, Structural Logic Ti, Dramatic Emotions Fe, and Temporal Intuition Ni), my previous assessment of LSI placed too much emphasis on his static internal organization (\"The Mind Palace\") and ignored the *nature* of his social interactions which define the Beta Extrovert.\n\n1.  **The Nature of Beta Aristocracy:**\n    The Beta Quadra is hierarchical (\"Aristocratic\"), dividing the world into \"us vs. them\" or \"worthy vs. unworthy.\" An LSI (The Inspector) typically upholds the system, enforcing rules and discipline to maintain order. Sherlock, however, actively mocks and dismantles established authorities (Scotland Yard/The Government represents the System). He embodies the SLE's **Beta Irrationality**: he exerts power *over* the hierarchy rather than submitting to it. He establishes his own rank through dominance (Se) rather than bureaucratic position.\n\n2.  **Fe (Extroverted Ethics) Usage:**\n    In the Beta Quadra, Fe is valued as a means of influencing the emotional atmosphere.\n    *   **LSI (Suggestive Fe):** Craves high-intensity emotions from others to energize their rigid state. They are consumers of drama.\n    *   **SLE (Mobilizing Fe):** Actively attempts to manipulate the atmosphere to charm, intimidate, or provoke. Sherlock is a performer. He does not wait for emotional input; he generates the dramatic tension himself (the violin, the dramatic reveals). This aligns with the \"Hidden Agenda\" of the SLE to be loved/admired despite their rough exterior.\n\n3.  **Duality and Intertype Relations:**\n    Quadra analysis relies heavily on the \"other half\" of the dyad.\n    *   If Sherlock were LSI, his dual would be the **EIE (Hamlet)**—a loud, emotionally turbulent, visionary leader who commands crowds.\n    *   If Sherlock is SLE, his dual is the **IEI (Yeats)**—a soft-spoken, reflective observer who provides moral support and cautionary foresight (Ni) regarding the unfolding of time.\n    \n    John Watson fits the **Beta Intuitive Introvert (IEI)** archetype perfectly. He grounds Sherlock's chaotic impulses, provides the \"human element\" (Fe) without overpowering him, and chronicles the legend (Ni legacy). Sherlock's absolute reliance on Watson's stabilizing, loyal presence confirms the SLE-IEI distinct duality within the Beta Quadra.\n\nI concede that his rigid logic is a tool (Creative Ti) serving his drive for sensory dominance (Lead Se), satisfying the profile of the Beta Marshal (SLE)."
+  },
+  "validation_results": {
+    "errors_found": [],
+    "verified_correct": [],
+    "recommended_type": null,
+    "confidence_adjustment": "No adjustment",
+    "summary": "Failed to parse validation response: Based on the canonical Socionics rules, Reinin dichotomies, and Function tables provided, here is the verification report:\n\n{\n    \"errors_found\": [],\n    \"verified_correct\": [\n        \"Agent Reinin: C..."
+  },
+  "final_result": {
+    "agent_predictions": {
+      "reinin_predicted": "SLE",
+      "quadra_predicted": "LSI",
+      "functions_predicted": "SLE"
+    },
+    "validation_summary": {
+      "errors_found": "No theoretical errors found.",
+      "discounted_claims": "None. The Validator confirmed that the Reinin traits cited for SLE (Declaring, Irrational, Strategic) were theoretically accurate."
+    },
+    "synthesis": {
+      "agreements": "All agents agreed on the Beta Quadra allocation (Se/Ti/Fe/Ni valuing), identifying Sherlock's core motivations as structural logic and high-stakes stimulation.",
+      "disagreements": "Agent Quadra initially prioritized Sherlock's rigorous internal logic (Ti) to predict LSI. Agent Reinin and Agent Functions disputed this, arguing that his chaotic lifestyle and energy metabolism favored the Irrational temperament (Se-Lead).",
+      "majority_type": "SLE",
+      "resolution": "Agent Quadra conceded to SLE after the Discussion phase. The decisive evidence was the distinction between LSI's 'Role Fi' (polite adherence to social norms) and SLE's 'Fi PoLR' (active inability to perceive relational distance). Sherlock's abrasive dismissal of social niceties and his 'burst' energy style (Irrationality) definitively rule out LSI."
+    },
+    "final_type": "SLE",
+    "type_name": "Sensory Logical Extrovert",
+    "type_nickname": "Zhukov",
+    "quadra": "Beta",
+    "confidence_score": 95,
+    "confidence_explanation": "Consensus is unanimous following the debate. The theoretical fit for SLE is exceptionally high, specifically regarding the Point of Least Resistance (Fi) and the Duality dynamic with Watson (IEI).",
+    "key_traits": [
+      "Volitional Sensing (Se Lead)",
+      "Structural Logic (Ti Creative)",
+      "Fi PoLR (Relational Blindness)",
+      "Stimulus-Seeking"
+    ],
+    "function_stack": "Se-Ti-Ne-Fi-Ni-Fe-Si-Te",
+    "summary": "Sherlock Holmes is the quintessential SLE: a force of nature driven by a hunger for sensory impact and intellectual conquest. He dominates his environment through acute observation (Se) and organizes it via rigorous deductive frameworks (Ti). His legendary 'coldness' is not Introversion, but the specific blindness of the Fi PoLR, viewing human sentiment as illogical static. He requires the external world (crimes) to fuel his energy and relies on an IEI partner (Watson) to mediate the human element he cannot navigate."
+  }
+}

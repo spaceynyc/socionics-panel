@@ -1,0 +1,232 @@
+=== PAGE 1 ===
+IEI (INFp)
+Ego block:
+Leading Ni+
+Creative Fe+
+Super Ego Block:
+Vulnerable/PoLR Te+
+Role Si+
+Super Id Block:
+Suggestive Se-
+Mobilizing Ti-
+Id Block:
+Observing/Ignoring Ne-
+Demonstrative Fi-
+ILI (INTp)
+Ego block:
+Leading Ni-
+Creative Te-
+Super Ego Block:
+Vulnerable/PoLR Fe-
+Role Si-
+Super Id Block:
+Suggestive Se+
+Mobilizing Fi+
+Id Block:
+Observing/Ignoring Ne+
+Demonstrative Ti+
+
+
+=== PAGE 2 ===
+SLE (ESTp)
+Ego block:
+Leading Se-
+Creative Ti-
+Super Ego Block:
+Vulnerable/PoLR Fi-
+Role Ne-
+Super Id Block:
+Suggestive Ni+
+Mobilizing Fe+
+Id Block:
+Observing/Ignoring Si+
+Demonstrative Te+
+SEE (ESFp)
+Ego block:
+Leading Se+
+Creative Fi+
+Super Ego Block:
+Vulnerable/PoLR Ti+
+Role Ne+
+Super Id Block:
+Suggestive Ni-
+Mobilizing Te-
+Id Block:
+Observing/Ignoring Si-
+Demonstrative Fe-
+
+
+=== PAGE 3 ===
+EIE (ENFj)
+Ego block:
+Leading Fe-
+Creative Ni-
+Super Ego Block:
+Vulnerable/PoLR Si-
+Role Te-
+Super Id Block:
+Suggestive Ti+
+Mobilizing Se+
+Id Block:
+Observing/Ignoring Fi+
+Demonstrative Ne+
+ESE (ESFj)
+Ego block:
+Leading Fe+
+Creative Si+
+Super Ego Block:
+Vulnerable/PoLR Ni+
+Role Te+
+Super Id Block:
+Suggestive Ti-
+Mobilizing Ne-
+Id Block:
+Observing/Ignoring Fi-
+Demonstrative Se-
+
+
+=== PAGE 4 ===
+LSI (ISTj)
+Ego block:
+Leading Ti+
+Creative Se+
+Super Ego Block:
+Vulnerable/PoLR Ne+
+Role Fi+
+Super Id Block:
+Suggestive Fe-
+Mobilizing Ni-
+Id Block:
+Observing/Ignoring Te-
+Demonstrative Si-
+LII (INTj)
+Ego block:
+Leading Ti-
+Creative Ne-
+Super Ego Block:
+Vulnerable/PoLR Se-
+Role Fi-
+Super Id Block:
+Suggestive Fe+
+Mobilizing Si+
+Id Block:
+Observing/Ignoring Te+
+Demonstrative Ni+
+
+
+=== PAGE 5 ===
+SEI (ISFp)
+Ego block:
+Leading Si-
+Creative Fe-
+Super Ego Block:
+Vulnerable/PoLR Te-
+Role Ni-
+Super Id Block:
+Suggestive Ne+
+Mobilizing Ti+
+Id Block:
+Observing/Ignoring Se+
+Demonstrative Fi+
+SLI (ISTp)
+Ego block:
+Leading Si+
+Creative Te+
+Super Ego Block:
+Vulnerable/PoLR Fe+
+Role Ni+
+Super Id Block:
+Suggestive Ne-
+Mobilizing Fi-
+Id Block:
+Observing/Ignoring Se-
+Demonstrative Ti-
+
+
+=== PAGE 6 ===
+ILE (ENTp)
+Ego block:
+Leading Ne+
+Creative Ti+
+Super Ego Block:
+Vulnerable/PoLR Fi+
+Role Se+
+Super Id Block:
+Suggestive Si-
+Mobilizing Fe-
+Id Block:
+Observing/Ignoring Ni-
+Demonstrative Te-
+IEE (ENFp)
+Ego block:
+Leading Ne-
+Creative Fi-
+Super Ego Block:
+Vulnerable/PoLR Ti-
+Role Se-
+Super Id Block:
+Suggestive Si+
+Mobilizing Te+
+Id Block:
+Observing/Ignoring Ni+
+Demonstrative Fe+
+
+
+=== PAGE 7 ===
+LIE (ENTj)
+Ego block:
+Leading Te+
+Creative Ni+
+Super Ego Block:
+Vulnerable/PoLR Si+
+Role Fe+
+Super Id Block:
+Suggestive Fi-
+Mobilizing Se-
+Id Block:
+Observing/Ignoring Ti-
+Demonstrative Ne-
+LSE (ESTj)
+Ego block:
+Leading Te-
+Creative Si-
+Super Ego Block:
+Vulnerable/PoLR Si-
+Role Te-
+Super Id Block:
+Suggestive Fi+
+Mobilizing Ne+
+Id Block:
+Observing/Ignoring Fi+
+Demonstrative Ne+
+
+
+=== PAGE 8 ===
+ESI (ISFj)
+Ego block:
+Leading Fi-
+Creative Se-
+Super Ego Block:
+Vulnerable/PoLR Ne-
+Role Ti-
+Super Id Block:
+Suggestive Te+
+Mobilizing Ni+
+Id Block:
+Observing/Ignoring Fe+
+Demonstrative Si+
+EII (INFj)
+Ego block:
+Leading Fi+
+Creative Ne+
+Super Ego Block:
+Vulnerable/PoLR Se+
+Role Ti+
+Super Id Block:
+Suggestive Te-
+Mobilizing Si-
+Id Block:
+Observing/Ignoring Fe-
+Demonstrative Ni-
+
+

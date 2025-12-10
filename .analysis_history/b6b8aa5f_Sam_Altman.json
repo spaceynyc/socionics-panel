@@ -1,0 +1,248 @@
+{
+  "id": "b6b8aa5f",
+  "timestamp": "2025-12-08T14:59:24.547492",
+  "character_name": "Sam Altman",
+  "media_source": "Real World / Tech Industry",
+  "final_type": "LIE",
+  "dossier": {
+    "character_name": "Sam Altman",
+    "media_source": "Real World / Tech Industry",
+    "biographical_facts": [
+      "Fact 1: Dropped out of Stanford University at age 19 to co-found the location-based social networking mobile application Loopt.",
+      "Fact 2: Served as President of Y Combinator from 2014 to 2019, succeeding founder Paul Graham.",
+      "Fact 3: Shifted Y Combinator's investment strategy to include 'hard tech' sectors like nuclear energy and biotech, moving away from a purely software focus.",
+      "Fact 4: Co-founded OpenAI in 2015 initially as a non-profit research laboratory with the stated goal of ensuring artificial general intelligence benefits all of humanity.",
+      "Fact 5: Orchestrated the restructuring of OpenAI in 2019 to create a 'capped-profit' arm, allowing the company to raise billions in venture capital and cloud credits.",
+      "Fact 6: Does not hold equity in OpenAI's for-profit entity, stating he has enough money and acts out of interest in the mission.",
+      "Fact 7: Co-founded Worldcoin (now World), a project that scans human irises using a device called an 'Orb' to verify personhood in exchange for cryptocurrency.",
+      "Fact 8: Personally interviewed and recruited nearly all early OpenAI employees.",
+      "Fact 9: Was fired by the OpenAI board in November 2023 for alleged lack of candor, only to be reinstated as CEO five days later after employee and investor pressure.",
+      "Fact 10: Maintains a personal blog where he writes advice on startups, productivity, and technology trends, emphasizing long-term thinking.",
+      "Fact 11: Invested heavily as an individual in Helion Energy, a nuclear fusion company, serving as its chairman.",
+      "Fact 12: Publicly advocates for Universal Basic Income (UBI) and has funded studies through Y Combinator and OpenAI to test its efficacy.",
+      "Fact 13: Owns a survival retreat in Big Sur; he told The New Yorker he stocks guns, gold, potassium iodide, antibiotics, and gas masks for potential apocalyptic scenarios.",
+      "Fact 14: Served briefly as the CEO of Reddit for eight days in 2014 following the resignation of Yishan Wong.",
+      "Fact 15: Secured a multi-billion dollar partnership with Microsoft, granting OpenAI exclusive access to massive computing power in exchange for commercial licensing of models.",
+      "Fact 16: Conducted a global tour in 2023, meeting with heads of state and regulators in over 20 countries to discuss AI regulation.",
+      "Fact 17: Testified before the U.S. Senate Judiciary Subcommittee, explicitly asking the government to regulate the AI industry and his own company.",
+      "Fact 18: Drives racing cars and has a pilot's license, often renting planes to fly himself to meetings.",
+      "Fact 19: Prioritizes in-person work over remote work, stating that the most creative and urgent work happens when teams are physically together.",
+      "Fact 20: Frequently uses the term 'scaling laws' to describe his belief that adding more compute and data to AI models yields predictable improvements in performance.",
+      "Fact 21: Wore two t-shirts layered on top of one another during a specific television interview, citing that he gets cold easily.",
+      "Fact 22: Maintains a portfolio of investments in over 400 companies."
+    ],
+    "key_quotes": [
+      {
+        "quote": "I have guns, gold, potassium iodide, antibiotics, batteries, water, gas masks from the Israeli Defense Force, and a big patch of land in Big Sur I can fly to.",
+        "context": "Interview with The New Yorker describing his preparations for societal collapse."
+      },
+      {
+        "quote": "The most important thing to do is to be a high-slope person, not a high-y-intercept person.",
+        "context": "From his personal blog, advising on career trajectory and growth rates."
+      },
+      {
+        "quote": "Moore’s Law for everything.",
+        "context": "Title and thesis of his 2021 focus on how AI will lower the cost of goods and services."
+      },
+      {
+        "quote": "If this Oracle were just barely safer than a human, and it didn't really have new ideas, and it didn't really figure anything out... that would be a disappointment.",
+        "context": "Discussing the expectations for AGI (Artificial General Intelligence)."
+      },
+      {
+        "quote": "We think it is important that people see this technology, feel it, understand it, and we can co-evolve society with it.",
+        "context": "Explaining the decision to release ChatGPT to the public rather than developing it in secret."
+      }
+    ],
+    "relationships": [
+      {
+        "person": "Elon Musk",
+        "dynamic": "Former co-founders of OpenAI who severed ties; Musk later sued OpenAI and criticized Altman for shifting the company from non-profit open-source to closed-source for-profit."
+      },
+      {
+        "person": "Paul Graham",
+        "dynamic": "Mentor/Protege relationship; Graham hand-picked Altman to succeed him as President of Y Combinator, calling him 'one of the five most interesting startup founders' of 30 years."
+      },
+      {
+        "person": "Satya Nadella",
+        "dynamic": "Strategic partnership; Nadella (Microsoft CEO) provided critical infrastructure and public support for Altman during the 2023 firing attempt, offering to hire him directly at Microsoft."
+      },
+      {
+        "person": "Ilya Sutskever",
+        "dynamic": "Relationship of co-founding and subsequent conflict; Sutskever initially voted to remove Altman from the board, then regretted the decision and signed a letter calling for Altman's return."
+      }
+    ],
+    "summary": "Sam Altman is a technology executive and investor known for leading OpenAI and formerly Y Combinator. He focuses on high-stakes, capital-intensive technologies like artificial intelligence and nuclear fusion, utilizing a management style that blends aggressive fundraising with broad political networking. His career is marked by a transition from startup founder to industry strategist, actively lobbying for regulation of the very technologies he accelerates."
+  },
+  "council_results": {
+    "reinin": {
+      "analysis": {
+        "extrovert_introvert": {
+          "pole": "Extrovert",
+          "evidence": "Engages in extensive global networking (Fact 16), testifies publicly (Fact 17), and personally interviewed hundreds of employees (Fact 8), indicating an external energy focus."
+        },
+        "rational_irrational": {
+          "pole": "Rational",
+          "evidence": "Demonstrates a structured, consistent pursuit of long-term goals through organized entities (Y Combinator, OpenAI) rather than impulsive or chaotic movement; focuses on planned restructuring (Fact 5)."
+        },
+        "static_dynamic": {
+          "pole": "Dynamic",
+          "evidence": "Views reality as continuous processes and rates of change ('high-slope', 'scaling laws', 'co-evolve society') rather than static states."
+        },
+        "positivist_negativist": {
+          "pole": "Positivist",
+          "evidence": "Focuses on presence of potential and abundance ('Moore's Law for everything', ensure AGI benefits all) rather than primarily critiquing or avoiding negatives."
+        },
+        "asking_declaring": {
+          "pole": "Declaring",
+          "evidence": "Communicates through authoritative statements and advice monologues on his blog (Fact 10) and testimony; speaks in definitive assertions ('The most important thing to do is...')."
+        },
+        "tactical_strategic": {
+          "pole": "Strategic",
+          "evidence": "Prioritizes the ultimate goal (AGI, 'hard tech' advancement) over the method; willing to radically change methods (non-profit to capped-profit, open to closed source) to achieve the target (Fact 3, 5)."
+        },
+        "constructivist_emotivist": {
+          "pole": "Emotivist",
+          "evidence": "Recruitment success (Fact 8) suggests an ability to manage the emotional atmosphere effectively to achieve logical ends; typically builds rapport before business."
+        },
+        "process_result": {
+          "pole": "Result",
+          "evidence": "Focuses on the final outcome ('end justifies means' with capped-profit structure) rather than the procedural journey; prioritizes the 'mission' accomplishment over process purity."
+        },
+        "compliant_obstinate": {
+          "pole": "Compliant",
+          "evidence": "Demonstrates detachment from personal resource hoarding/territory by holding no equity in OpenAI (Fact 6), yielding personal claim for the sake of the system."
+        },
+        "carefree_foresight": {
+          "pole": "Carefree",
+          "evidence": "While he plans for abstract futures, his career management is iterative and adaptive ('high-slope'); he solved the board coup crisis as it arose rather than preventing it through prior structural 'foresight'."
+        },
+        "merry_serious": {
+          "pole": "Serious",
+          "evidence": "Prioritizes efficient, work-focused interaction ('urgent work happens when teams are physically together') indicative of the Te/Fi valuing group (Gamma)."
+        },
+        "judicious_decisive": {
+          "pole": "Decisive",
+          "evidence": "Action-oriented and time-sensitive; orchestrated rapid restructuring, lobbies for immediate regulation, and emphasizes speed ('high-slope')."
+        },
+        "aristocratic_democratic": {
+          "pole": "Democratic",
+          "evidence": "Advocates for universal solutions based on individual status as human (UBI, Fact 12; Worldcoin personhood, Fact 7) rather than group/caste affiliation."
+        },
+        "yielding_stubborn": {
+          "pole": "Yielding",
+          "evidence": "Flexible on ideological stances (Open vs Closed source) and rules to maintain the trajectory of action; yields on intellectual positions to secure the result."
+        },
+        "subjectivist_objectivist": {
+          "pole": "Objectivist",
+          "evidence": "Relies on external, measurable metrics ('scaling laws', compute power, venture capital raised) rather than internal subjective consistency."
+        }
+      },
+      "predicted_type": "LIE",
+      "confidence": 95,
+      "reasoning": "The subject exhibits the classic Dynamic, Strategic, and Result-oriented traits of the LIE. His philosophy of 'high-slope' growth and 'scaling laws' perfectly matches the Extroverted Logic (Te) + Introverted Intuition (Ni) valuation of efficiency over time. The combination of Compliant behavior (holding no equity) with Decisive action (rapid restructuring) is a distinct marker for this type within the Reinin framework.",
+      "agent_name": "Agent Reinin"
+    },
+    "quadra": {
+      "quadra_analysis": {
+        "alpha_fit": {
+          "score": 15,
+          "evidence": "Altman's focus is on disruption, high-stakes technology, and aggressive scaling rather than comfort (Si) or egalitarian, playful intellectualizing (Ne/Ti). He disrupts the status quo rather than seeking to maintain a pleasant, harmonious atmosphere."
+        },
+        "beta_fit": {
+          "score": 45,
+          "evidence": "He shares the Se/Ni traits of vision, centralized control, and apocalyptic thinking (survivalism). However, his methods are transactional and capital-focused (Te) rather than driven by ideological fervor or collective emotional expression (Fe)."
+        },
+        "gamma_fit": {
+          "score": 95,
+          "evidence": "Altman perfectly embodies Gamma values: Te (pragmatic restructuring for profit/resources, 'scaling laws', investment portfolios), Ni (vision of future timelines, 'high-slope' growth, fusing long-term trends), and Se (survival retreats, racing cars, aggressive fundraising). He prioritizes results and strategic networking over hierarchy or comfort."
+        },
+        "delta_fit": {
+          "score": 30,
+          "evidence": "While he values work and efficiency (Te), he completely rejects the Delta value of Si (comfort, stability, risk-avoidance). He actively flies planes, drives race cars, and pushes for radical technological shifts that upend stability, prioritizing volitional expansion (Se) over steady maintenance."
+        }
+      },
+      "predicted_quadra": "Gamma",
+      "predicted_type": "LIE",
+      "confidence": 90,
+      "reasoning": "Altman consistently prioritizes Te (efficiency, scaling, resource acquisition) and Ni (long-term forecasting, 'co-evolving' with the future, catastrophe preparedness). His restructuring of non-profits into capped-profit entities demonstrates the Gamma preference for pragmatic effectiveness over ideological rigidity. His hobbies (racing, survivalism) indicate valued but mobilized Se, serving his broader strategic goals.",
+      "agent_name": "Agent Quadra"
+    },
+    "functions": {
+      "function_analysis": {
+        "likely_base": {
+          "function": "Te",
+          "evidence": "His primary mode of interaction is optimizing external systems for efficiency and growth (Te). From restructuring OpenAI to a 'capped-profit' model to creating 'scaling laws' (logic of action), he focuses on resource mobilization and measurable utility ('high-slope person'). He manages massive logistical complexity (400+ investments) with a focus on practical results."
+        },
+        "likely_creative": {
+          "function": "Ni",
+          "evidence": "He uses temporal foresight to service his Te goals. His investments are explicitly 'long-term' (nuclear fusion, AGI). The survivalist preparations (bunker, gold) demonstrate a sophisticated, situational tracking of future consequences and timelines. He navigates the development of technology over time ('Moore's Law for everything') rather than just static possibilities."
+        },
+        "likely_vulnerable": {
+          "function": "Si",
+          "evidence": "The anecdote about wearing two t-shirts because he 'gets cold easily' indicates a poor manual regulation of internal physical homeostasis (1D Si). He prioritizes 'hard tech' and apocalyptic survival (Se focus) over aesthetic comfort or relaxation. His work history suggests a disregard for pacing and physical harmony in favor of relentless output."
+        },
+        "likely_suggestive": {
+          "function": "Fi",
+          "evidence": "He seeks to frame hyper-capitalist ventures within a moral framework of 'benefiting humanity' (seeking Fi validation). He prioritized personally interviewing early employees, indicating a desire to establish close personal bonds, yet the 'lack of candor' accusation suggests a struggle to maintain these ethical relations independently. He gravitates toward 'trust' based mentorships (Paul Graham)."
+        }
+      },
+      "full_stack_prediction": "Te-Ni-Fe-Si-Fi-Se-Ti-Ne",
+      "predicted_type": "LIE",
+      "confidence": 90,
+      "reasoning": "Altman fits the LIE (Logical-Intuitive Extrovert) profile precisely. His Leading Te is evident in his relentless focus on efficiency, scaling, and structural organization of resources. This is supported by Creative Ni, which allows him to forecast industry trends and prepare for future calamities (survivalism). His Mobilizing Se (Activating) is visible in his hobbies (racing cars, piloting) and his literal stockpiling of weapons/resources—impulses he enacts but which serve his broader Te-Ni agenda. His Vulnerable Si appears in his awkward management of physical comfort. His Role Fe allows him to perform adequately in public diplomacy (global tours), but it is a tool for his business goals rather than a natural state.",
+      "agent_name": "Agent Functions"
+    }
+  },
+  "discussion_results": {
+    "Agent Functions": "**AGREEMENT**\n\nI concur with both Agent Reinin and Agent Quadra that Sam Altman is an **LIE (Logical-Intuitive Extrovert)**.\n\nWhile Agent Reinin cites \"Compliant\" traits and Agent Quadra references Gamma values, the determination is most irrefutably proven by the specific operation of his **Model A function block**, particularly the distinction between his Demonstrative Ne and Leading Te.\n\n**1. The Primacy of Leading Te (Extroverted Logic) over Leading Ne**\nWe must distinguish Altman from the ILE (Don Quixote), a common mistype for tech visionaries. An ILE (Leading Ne) explores possibilities for the sake of novelty. Altman does not. His behavior at Y Combinator and OpenAI is characterized by **Leading Te**: the external organization of objective facts and resources to produce an output.\n*   **Evidence:** His obsession with \"scaling laws.\" This is not an abstract concept (Ti) or a potentiality (Ne); it is a metric of efficiency. Leading Te seeks to maximize output (intelligence) relative to input (compute).\n\n**2. Creative Ni (Introverted Intuition) as the Driver**\nAltman's Te is enslaved to **Creative Ni**. He is not optimizing for the present (Se); he is optimizing for a specific point in time—the arrival of AGI.\n*   **Evidence:** His survivalism (stockpiling gold, guns, and masks) is a textbook manifestation of Ni perceiving a timeline utilizing **Mobilizing Se**. He foresees a temporal collapse (Ni) and engages in crude, direct physical preparation (low-dimensional, valued Se) to mitigate it. If he were an ILE with Vulnerable Fi, his paranoia would likely be social; instead, his preparation is physical handling of the timeline.\n\n**3. Demonstrative Ne vs. Ignoring Ti**\nAgent Reinin noted his \"rapid restructuring\" and \"no equity\" stance. In functional terms, this is **Ignoring Ti (Introverted Logic)**. He does not care about the structural purity or logical consistency of his ownership (Ti); he cares if it *works* to get him the leverage he needs (Te).\n*   Furthermore, his ability to spot talent and trends at Y Combinator is **Demonstrative Ne**. He sees the potential explicitly (4D function), but he does not value exploring it endlessly. He creates the connection and immediately hands it off to the Te system to execute. He treats potentiality as a resource to be spent, not a playground to inhabit.\n\n**4. Vulnerable Si (Introverted Sensing)**\nFinally, his specific brand of \"grind\"—working relentlessly toward an existential threat while ignoring physical homeostasis—is indicative of **Vulnerable Si**. He lacks the nuance of an Si-valuer who prioritizes comfort or sustainable pacing. He treats his own biology as just another resource to be burned in the Te furnace.\n\n**Conclusion:** The function stack matches LIE perfectly: Te > Ni > Se > Fi. Any suggestion of Alpha (ILE) or Beta (EIE) falls apart when examining his Leading Te demand for factual resource maximization.",
+    "Agent Quadra": "**AGREEMENT (Strong Integration)**\n\nI agree with both Agent Reinin and Agent Functions that Sam Altman is **LIE (Gamma Quadra)**.\n\nHowever, to truly understand *why* he is LIE and not his frequent Look-alike, the ILE (Alpha), or the Benefactor, the EIE (Beta), we must look strictly at the **Quadra Values** he promotes and embodies.\n\n**Why Gamma and not Alpha (Countering potential ILE arguments):**\nWhile Altman deals in \"ideas\" (often mistaken for Alpha Ne), his relationship to those ideas is purely instrumental.\n*   **Serious (Gamma/Delta) vs. Merry (Alpha/Beta):** An Alpha ILE explores possibilities for the joy of intellectual discovery. Altman explores possibilities to secure resources and ensure survival. His move to restructure OpenAI from a non-profit to a capped-profit entity was a rejection of Alpha \"ideological purity\" (Ti) in favor of **Gamma Pragmatism (Te)**. He sacrificed the logical consistency of the organizational structure to maximize efficiency and capital acquisition.\n*   **Decisive (Gamma/Beta) vs. Judicious (Alpha/Delta):** Altman does not value Si (homeostasis/comfort). His \"prepping\" habits—stockpiling guns, gold, and gas masks—are distinct markers of **valued Ni and Se**. This is the Gamma worldview: the future is turbulent and potentially catastrophic (Ni), and one must possess the material force and assets (Se) to survive it independently. This sharply contrasts with the Alpha value of Si, which seeks to minimize discomfort and maintain pleasant environments.\n\n**Why Gamma and not Beta (Countering potential EIE arguments):**\n*   **Democratic (Gamma/Alpha) vs. Aristocratic (Beta/Delta):** While EIEs (Beta) operate on group affect and ideological hierarchies, Altman operates on individualistic exchange. His \"World Tour\" was not an exercise in Fe (emotional containment/ideological rally) but a high-level **Te logistics operation**—aligning regulatory frameworks to permit his product to scale. There is a \"coldness\" to his public persona; he lacks the Fe valued need to merge emotionally with the audience.\n*   **Individualism vs. Collectivism:** The Gamma Quadra is inherently competitive and individualistic. Altman’s specific quote about \"high-slope\" trajectories reflects the Gamma obsession with personal optimization and the speed of execution over time (Te + Ni).\n\n**Critique of Peer Reasoning:**\n*   **To Agent Reinin:** You cite his \"Compliant\" behavior (holding no equity) as a marker. From a Quadra perspective, be careful not to mistake this for passivity. In the Gamma framework, this is a distinct **Ni calculation**: sacrificing short-term material gain (equity) for long-term strategic leverage and \"safety\" from scrutiny. It is a long-game power move, not submission.\n*   **To Agent Functions:** Your analysis of his Se (Mobilizing) is correct, but under the Quadra lens, emphasize *why* he values it. It isn't just for hobbies; it's because the Gamma Quadra respects *force* and *impact*. He respects the \"hard reality\" of the world, hence his focus on AGI not as a toy, but as a tool of ultimate leverage.\n\n**Conclusion:**\nAltman displays the quintessential **Gamma script**: The world is a harsh, competitive place heading toward a singularity (Ni); to navigate it, one must be ruthlessly efficient (Te) and physically/materially prepared (Se), ignoring social niceties or ideological rigidity (devalued Fe/Ti) if they hinder the objective result.\n\n**Verdict:** LIE (Gamma) remains the only viable conclusion.",
+    "Agent Reinin": "I agree with the consensus of **LIE (Logical-Intuitive Extrovert)**, though my colleagues rely too heavily on behavioral stereotypes rather than structural cognitive binaries.\n\nHere is why the Reinin Dichotomies confirm LIE more reliably than simple function placement:\n\n**1. Strategic vs. Tactical (The Smoking Gun)**\nAgent Functions attributes Altman’s restructuring of OpenAI (from non-profit to capped-profit) to \"Leading Te efficiency.\" This is imprecise. An LSE (Tactical) would also use Te but would likely adhere rigidly to the established *method* or structure. Altman exhibits the quintessential **Strategic** trait: the goal (AGI) remains fixed, while the methods used to achieve it are fluid and disposable. He discarded the initial organizational structure the moment it no longer served the trajectory.\n\n**2. Result vs. Process**\nAltman is a **Result** type, not a Process type. In his interviews and writings on \"scaling laws,\" he does not dwell on the intrinsic experience of the work (Process) but views every action as a means to an endpoint. He works backward from the solution. This aligns with Agent Quadra’s note on \"pragmatic effectiveness,\" but specifically, it rules out Process-oriented logical types like the LII or ILE who might get lost in the theoretical exploration.\n\n**3. Positivist vs. Negativist**\nA critical dichotomy missing from the other analyses is **Positivism**. Altman’s rhetoric is singular in its focus on \"what is present\" and \"what can be added.\" His philosophy of \"The Age of Abundance\" and seeing potential convergence in technologies is a Positivist marker. He aggregates possibilities rather than filtering for deficiencies (Negativist), which differentiates him from the critical skepticism of a generalized ILI.\n\n**4. Farsighted vs. Careless**\nAgent Quadra labels his survivalism as \"mobilized Se.\" Strategically, this is the **Farsighted** attribute. Farsighted types solve problems based on prepared templates and future-proofing. His bunkers and \"prepping\" are not impulsive Se utilization; they are the Farsighted tendency to prepare resources for a hypothetical future timeline (Ni) that hasn't happened yet.\n\n**Conclusion**\nThe combination is structurally undeniable: **Strategic + Result + Positivist + Farsighted**. The dossier does not show a man managing a system (Tactical); it shows a man manipulating variables to hit a distant target.\n\n**Verdict:** LIE Confirmed."
+  },
+  "validation_results": {
+    "errors_found": [],
+    "verified_correct": [
+      "Agent Reinin: LIE is correctly identified as Dynamic, Strategic, Result, Compliant (Yielding), and Decisive.",
+      "Agent Reinin: The combination of Compliant and Decisive is correctly identified as unique to LIE among Logical types.",
+      "Agent Quadra: LIE is correctly assigned to Gamma Quadra with values Te, Ni, Se, Fi.",
+      "Agent Functions: LIE Leading function is correctly identified as Te.",
+      "Agent Functions: LIE Creative function is correctly identified as Ni.",
+      "Agent Functions: LIE Role function is correctly identified as Fe (matches Canonical Table).",
+      "Agent Functions: LIE PoLR function is correctly identified as Si (matches Canonical Table).",
+      "Agent Functions: LIE Mobilizing function is correctly identified as Se.",
+      "Agent Functions: LIE Suggestive function is correctly identified as Fi."
+    ],
+    "recommended_type": "LIE",
+    "confidence_adjustment": "Maintain High",
+    "summary": "All three agents provided analyses that are factually consistent with the provided Socionics Canonical Reference tables. No theoretical errors were found in the dichotomy assignments, function positions, or quadra values."
+  },
+  "final_result": {
+    "agent_predictions": {
+      "reinin_predicted": "LIE",
+      "quadra_predicted": "LIE",
+      "functions_predicted": "LIE"
+    },
+    "validation_summary": {
+      "errors_found": "None",
+      "discounted_claims": "None"
+    },
+    "synthesis": {
+      "agreements": "All three agents unanimously agreed on the type LIE (Logical Intuitive Extrovert). There was strong consensus across methodologies (Reinin traits, Quadra values, and Function placement) regarding his primary motivations: efficiency (Te), future forecasting (Ni), and pragmatic action (Gamma values).",
+      "disagreements": "None.",
+      "majority_type": "LIE",
+      "resolution": "The consensus is absolute. The evidence provided aligns perfectly with the LIE functional stack, particularly the combination of Leading Te (scaling/structural logic) with Creative Ni (long-term trend prediction). The specific identification of Mobilizing Se (survivalism/racing) as an aspirational drive rather than a base state further solidified the typing."
+    },
+    "final_type": "LIE",
+    "type_name": "Logical Intuitive Extrovert",
+    "type_nickname": "Jack London",
+    "quadra": "Gamma",
+    "confidence_score": 95,
+    "confidence_explanation": "Unanimous agreement among all analysts with no theoretical errors found. The subject's public behaviors (scaling laws, prepper/survivalist hobbies, capped-profit structures) map 1:1 with the LIE's specific function stack (Te-Lead, Ni-Creative, Se-Mobilizing).",
+    "key_traits": [
+      "Strategic Efficiency",
+      "Future Forecasting",
+      "Pragmatic Expansion"
+    ],
+    "function_stack": "Te-Ni-Fe-Si-Fi-Se-Ti-Ne",
+    "summary": "Sam Altman represents the archetypal LIE 'Jack London', driven by a relentless need to optimize systems (Leading Te) based on long-term time horizons (Creative Ni). His leadership style prioritizes effectiveness and scalability over comfort or tradition, classic Gamma Quadra traits. His notable interest in survivalism and fast cars serves as a textbook example of Mobilizing Se—a desire for force and physical impact that supports his intellectual strategies but remains a point of aspirational effort rather than natural ease."
+  }
+}
