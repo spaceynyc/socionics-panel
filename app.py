@@ -159,9 +159,13 @@ def delete_analysis_from_history(filepath):
 # =============================================================================
 # Initialize API key: check Streamlit secrets first (for cloud), then saved config (for local)
 if "api_key" not in st.session_state:
-    if hasattr(st, 'secrets') and 'OPENROUTER_API_KEY' in st.secrets:
-        st.session_state.api_key = st.secrets['OPENROUTER_API_KEY']
-    else:
+    try:
+        if hasattr(st, 'secrets') and 'OPENROUTER_API_KEY' in st.secrets:
+            st.session_state.api_key = st.secrets['OPENROUTER_API_KEY']
+        else:
+            st.session_state.api_key = _saved_config.get("api_key", "")
+    except Exception:
+        # No secrets file exists, fall back to saved config
         st.session_state.api_key = _saved_config.get("api_key", "")
 if "phase" not in st.session_state:
     st.session_state.phase = "input"  # input, researching, analyzing, discussing, complete
@@ -191,7 +195,10 @@ with st.sidebar:
     st.markdown("---")
     
     # API Key input - only show if not using Streamlit secrets
-    _using_secrets = hasattr(st, 'secrets') and 'OPENROUTER_API_KEY' in st.secrets
+    try:
+        _using_secrets = hasattr(st, 'secrets') and 'OPENROUTER_API_KEY' in st.secrets
+    except Exception:
+        _using_secrets = False
     
     if _using_secrets:
         st.success("✓ API Key configured via secrets")
@@ -483,6 +490,20 @@ if st.session_state.phase == "history_view" and st.session_state.viewing_history
                             st.markdown(f"- **{error.get('agent', 'Agent')}**: {error.get('claim', '')} → {error.get('correction', '')}")
                 else:
                     st.success("No theoretical errors found")
+        
+        # Synthesis details (Manager's final summary)
+        if result.get("synthesis"):
+            with st.expander("View Synthesis Details"):
+                synthesis = result["synthesis"]
+                st.markdown("**Agreements:**")
+                st.markdown(synthesis.get("agreements", "N/A"))
+                st.markdown("**Disagreements:**")
+                st.markdown(synthesis.get("disagreements", "N/A"))
+                if synthesis.get("majority_type"):
+                    st.markdown("**Majority Type:**")
+                    st.markdown(synthesis.get("majority_type", "N/A"))
+                st.markdown("**Resolution:**")
+                st.markdown(synthesis.get("resolution", "N/A"))
         
         # PDF Download for history entry
         st.markdown("---")

@@ -161,5 +161,17 @@ cython_debug/
 
 # Socionics Panel - App-specific
 .user_config.json
+.user_config*.json
 .analysis_history/
 .streamlit/secrets.toml
+.streamlit/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
