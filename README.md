@@ -123,27 +123,21 @@ socionics-panel/
 
 ### AI Model
 
-This application is optimized for and **highly recommended to run on Google Gemini 3 Pro** via OpenRouter. The default configuration uses:
+This application runs on **Google Gemini 3 Pro Preview** via OpenRouter. All agents use the same model for best results:
 
-| Agent | Model | Purpose |
-|-------|-------|--------|
-| Manager | `google/gemini-3-pro-preview` | Final type synthesis |
-| Scout & Council | `google/gemini-2.5-pro` | Research & analysis |
-| Validator | `google/gemini-2.5-flash-preview-09-2025` | Fact-checking |
+```
+All Agents → google/gemini-3-pro-preview
+```
 
 ### Changing Models
 
-If you want to use different models, edit `config/models.py`:
+If you want to use a different model, edit `config/models.py`:
 
 ```python
-# Pro Model: Used for Manager (final synthesis)
+# All agents use the same model - change this to use a different one
 PRO_MODEL = "google/gemini-3-pro-preview"
-
-# Mid Model: Used for Scout and Council agents
-MID_MODEL = "google/gemini-2.5-pro"
-
-# Flash Model: Used for Validator (fact-checking)
-FLASH_MODEL = "google/gemini-2.5-flash-preview-09-2025"
+MID_MODEL = "google/gemini-3-pro-preview"
+FLASH_MODEL = "google/gemini-3-pro-preview"
 ```
 
 You can replace these with any model available on [OpenRouter](https://openrouter.ai/models), such as:
