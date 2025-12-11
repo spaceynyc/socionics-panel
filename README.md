@@ -47,6 +47,8 @@ cd socionics-panel
 pip install -r requirements.txt
 ```
 
+> **Note for macOS/Linux:** If `pip` doesn't work, try `pip3 install -r requirements.txt`
+
 ### 3. Run the Application
 
 ```bash
