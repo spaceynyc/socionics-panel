@@ -104,7 +104,6 @@ socionics-panel/
 
 ### Sidebar Options
 
-- **Model Selection**: Choose from various AI models (Claude, GPT-4, etc.)
 - **Auto-proceed**: Enable to automatically progress through all phases
 - **Reset Analysis**: Start over with a new character
 - **History**: View and reload past analyses
@@ -122,18 +121,40 @@ socionics-panel/
 
 ## ⚙️ Configuration
 
-### Supported Models
+### AI Model
 
-The application supports multiple AI models through OpenRouter, including:
-- Claude 3.5 Sonnet
-- GPT-4o
-- And many more
+This application is optimized for and **highly recommended to run on Google Gemini 3 Pro** via OpenRouter. The default configuration uses:
+
+| Agent | Model | Purpose |
+|-------|-------|--------|
+| Manager | `google/gemini-3-pro-preview` | Final type synthesis |
+| Scout & Council | `google/gemini-2.5-pro` | Research & analysis |
+| Validator | `google/gemini-2.5-flash-preview-09-2025` | Fact-checking |
+
+### Changing Models
+
+If you want to use different models, edit `config/models.py`:
+
+```python
+# Pro Model: Used for Manager (final synthesis)
+PRO_MODEL = "google/gemini-3-pro-preview"
+
+# Mid Model: Used for Scout and Council agents
+MID_MODEL = "google/gemini-2.5-pro"
+
+# Flash Model: Used for Validator (fact-checking)
+FLASH_MODEL = "google/gemini-2.5-flash-preview-09-2025"
+```
+
+You can replace these with any model available on [OpenRouter](https://openrouter.ai/models), such as:
+- `anthropic/claude-3.5-sonnet`
+- `openai/gpt-4o`
+- `meta-llama/llama-3.1-405b-instruct`
 
 ### Persistent Settings
 
 Your preferences are automatically saved to `.user_config.json`:
 - API Key
-- Selected model
 - Auto-proceed preference
 
 ## 🔧 Troubleshooting
