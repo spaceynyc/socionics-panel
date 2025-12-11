@@ -140,10 +140,7 @@ MID_MODEL = "google/gemini-3-pro-preview"
 FLASH_MODEL = "google/gemini-3-pro-preview"
 ```
 
-You can replace these with any model available on [OpenRouter](https://openrouter.ai/models), such as:
-- `anthropic/claude-3.5-sonnet`
-- `openai/gpt-4o`
-- `meta-llama/llama-3.1-405b-instruct`
+You can replace these with any model available on [OpenRouter](https://openrouter.ai/models).
 
 ### Persistent Settings
 
