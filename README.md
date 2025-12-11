@@ -34,9 +34,10 @@ A multi-agent AI system that researches fictional characters and determines thei
 
 ## 🚀 Quick Start
 
-### 1. Clone or Download the Repository
+### 1. Clone the Repository
 
 ```bash
+git clone https://github.com/spaceynyc/socionics-panel.git
 cd socionics-panel
 ```
 
