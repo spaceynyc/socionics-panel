@@ -11,7 +11,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage, HumanMessage
 
 from config.prompts import SCOUT_SYSTEM_PROMPT
-from config.models import OPENROUTER_BASE_URL, PRO_MODEL
+from config.models import OPENROUTER_BASE_URL, MID_MODEL
 from utils.search import search_character, format_search_results
 
 
@@ -26,7 +26,7 @@ class ScoutAgent:
             api_key: OpenRouter API key
         """
         self.llm = ChatOpenAI(
-            model=PRO_MODEL,
+            model=MID_MODEL,
             openai_api_key=api_key,
             openai_api_base=OPENROUTER_BASE_URL,
             default_headers={

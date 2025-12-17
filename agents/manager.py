@@ -76,9 +76,6 @@ class ManagerAgent:
             else:
                 validation_section += "No theoretical errors found.\n"
             
-            if validation_results.get("recommended_type"):
-                validation_section += f"Validator's Recommendation: {validation_results['recommended_type']}\n"
-            
             if validation_results.get("summary"):
                 validation_section += f"Summary: {validation_results['summary']}\n"
         

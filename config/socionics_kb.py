@@ -131,77 +131,101 @@ Each element represents a type of information the psyche can perceive and proces
 
 INTUITION (Perceiving potential and time):
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ Ne (Extraverted Intuition) - Possibilities                                  │
-│ - Potential, essence, the unknown, uncertainty                              │
-│ - Opening new "windows," seeing opportunities                               │
-│ - Essence of things, what something COULD become                            │
-│ - Diversity of interests, refreshing informational suddenness               │
-│ - "What if?" thinking, brainstorming                                        │
+│ Ne (Extraverted Intuition) - Potential & Essence                            │
+│ - Potential, permutation, isomorphism, semblance, essence                   │
+│ - Uncertainty, the unknown, opening up new "windows"                        │
+│ - Seeing opportunities, chance, being the first                             │
+│ - Refreshing informational suddenness, diversity of interests               │
+│ - "What if?" thinking, brainstorming, bringing up new possibilities         │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Ni (Introverted Intuition) - Time/Development                               │
-│ - How things change over time, historicity                                  │
-│ - Cause and effect, consequences, forecasting                               │
-│ - Archetypal themes, patterns across time                                   │
-│ - Rhythm, timing of when to act or wait                                     │
-│ - Vision of how situations will unfold                                      │
+│ Ni (Introverted Intuition) - Time & Development                             │
+│ - Development over time, historicity, cause and effect                      │
+│ - Consequences, repetition, archetypal themes and examples                  │
+│ - Looking for causes in history or the past                                 │
+│ - Past-future forecasting of event dynamics, rhythm                         │
+│ - Delay or act-now timing, past-turned imagination                          │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 SENSING (Perceiving concrete reality):
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ Se (Extraverted Sensing) - Force/Territory                                  │
-│ - Immediate static qualities, external appearance                           │
-│ - Impact, direct physical effect, power                                     │
-│ - Span, extent, scope of influence                                          │
-│ - Territory, ownership, willpower                                           │
+│ Se (Extraverted Sensing) - Force & Reality                                  │
+│ - Sensing of immediate static qualities of objects                          │
+│ - Sensing of immediate reality, external appearance, texture, form          │
+│ - Static objects, impact, direct physical effect, power                     │
+│ - Span, extent, scope of influence, territory, ownership                    │
 │ - Presence, assertiveness, mobilizing resources                             │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Si (Introverted Sensing) - Comfort/Harmony                                  │
+│ Si (Introverted Sensing) - Homeostasis & Flow                               │
 │ - Homeostasis, continuity, smoothness, flow                                 │
-│ - Satisfaction, aesthetics, quality of life                                 │
-│ - Pleasure, relaxation, convenience                                         │
+│ - Satisfaction, aesthetics, quality of life, pleasure                       │
+│ - Relaxation, convenience, quality                                          │
 │ - How environment affects physical/psychological state                      │
-│ - Comfort, health, bodily sensations                                        │
+│ - Internal physical sensations and harmony                                  │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 LOGIC (Judging by impersonal criteria):
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ Te (Extraverted Logic) - Efficiency/Facts                                   │
-│ - Efficiency, method, mechanism, knowledge                                  │
-│ - Work, productivity, utility                                               │
-│ - Direction of activity into most logical course                            │
-│ - Expediency, benefit, practical results                                    │
-│ - "Does it work?" thinking, facts and data                                  │
+│ Te (Extraverted Logic) - Efficiency & Action                                │
+│ - Efficiency, method, mechanism, knowledge, work                            │
+│ - Reason in motion, direction of activity into its most logical course      │
+│ - "Logic of actions", utilitarianism, expediency, benefit                   │
+│ - Practical results, facts and data                                         │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Ti (Introverted Logic) - Structure/Systems                                  │
+│ Ti (Introverted Logic) - Structure & Analysis                               │
 │ - Structure, analysis, coherence, consistency                               │
-│ - Accordance, match, logical dependencies                                   │
-│ - Understanding, order, classification                                      │
-│ - "Is it correct?" thinking, logical frameworks                             │
-│ - Structural relationships between components                               │
+│ - Cogency, accordance, match, commensurability                              │
+│ - Understanding, order, classification (or lack thereof)                    │
+│ - Logical frameworks, structural relationships between components           │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ETHICS (Judging by personal criteria):
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │ Fe (Extraverted Ethics) - Emotional Atmosphere                              │
-│ - Emotional atmosphere, group mood                                          │
-│ - Cooperation, social treatment                                             │
-│ - Qualitative judgment of behavior                                          │
-│ - Sympathy, enthusiasm, emotional expression                                │
-│ - "Ethics of actions" - how behavior affects group mood                     │
+│ - Emotional atmosphere, romanticism, cooperation, treatment                 │
+│ - Qualitative judgment of behavior, sympathy                                │
+│ - Ethical estimations of observable actions, "ethics of actions"            │
+│ - Enthusiasm, emotional expression, group mood                              │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ Fi (Introverted Ethics) - Relationships/Values                              │
-│ - Internal harmony, resonance of sentiments                                 │
-│ - Personal relationships, loyalty, trust                                    │
-│ - Sympathy, pity, compassion, support                                       │
-│ - Positive/negative emotional space between people                          │
-│ - "Ethics of relations" - how people relate one-on-one                      │
+│ Fi (Introverted Ethics) - Internal Sentiments                               │
+│ - Internal harmony, resonance or dissonance of personal sentiments          │
+│ - Sympathy, pity, compassion, support, condemnation, judgment               │
+│ - Positive and negative emotional space between people                      │
+│ - "Ethics of relations", loyalty, personal trust                            │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 CRITICAL DISTINCTIONS:
-- Ne vs Ni: External possibilities vs internal development over time
-- Se vs Si: External impact/power vs internal comfort/harmony  
-- Te vs Ti: External efficiency/facts vs internal structure/logic
-- Fe vs Fi: External group mood vs internal personal relationships
+- Ne vs Ni: External potential/essence vs internal development/history
+- Se vs Si: External static reality/impact vs internal homeostasis/flow
+- Te vs Ti: External logic of actions vs internal logic of structure
+- Fe vs Fi: External ethics of actions vs internal resonance of sentiments
+
+STRUCTURAL PROPERTIES:
+
+STATIC VS DYNAMIC (Discrete vs Continuous):
+Static (Discrete, abruptly changing):
+- Ne: Discrete temporal phases, sets of discrete alternatives
+- Ti: Discrete logical/structural dependencies between states
+- Se: Discrete spatial boundaries, territory, control
+- Fi: Discrete types of interpersonal relationships (friend/enemy)
+
+Dynamic (Continuous, constant fluctuation):
+- Si: Continuous physical exchanges with environment
+- Fe: Continuous excitations in psychological states
+- Ni: Continuous evolution of things over time
+- Te: Continuous incoming stream of objective facts
+
+EXTROVERTED VS INTROVERTED (Object vs Relation):
+Extroverted (Information about objects as they are):
+- Ne: Something has potential or does not
+- Fe: One is happy or sad (observable state)
+- Se: Awareness of external properties/reality
+- Te: Something is useful or not (objective property)
+
+Introverted (Information about relations between objects):
+- Si: Relation between person and environment (comfort)
+- Ti: Logical relation between statements (if X then Y)
+- Ni: Temporal relation between events (X leads to Y)
+- Fi: Relation between people (X relates well to Y)
 """
 
 # =============================================================================

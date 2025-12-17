@@ -192,12 +192,12 @@ class FunctionsAgent(CouncilAgent):
 
 
 class ValidatorAgent:
-    """Agent that fact-checks theoretical claims from other agents. Uses PRO_MODEL."""
+    """Agent that fact-checks theoretical claims from other agents. Uses FLASH_MODEL."""
     
     def __init__(self, api_key: str):
         self.name = "The Validator"
         self.llm = ChatOpenAI(
-            model=PRO_MODEL,
+            model=FLASH_MODEL,
             openai_api_key=api_key,
             openai_api_base=OPENROUTER_BASE_URL,
             default_headers={
@@ -267,8 +267,6 @@ Respond in the specified JSON format."""
             validation = {
                 "errors_found": [],
                 "verified_correct": [],
-                "recommended_type": None,
-                "confidence_adjustment": "No adjustment",
                 "summary": f"Failed to parse validation response: {response.content[:200]}..."
             }
         
